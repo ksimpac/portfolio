@@ -1,0 +1,57 @@
+﻿#include <stdio.h>
+#include <stdlib.h>
+
+void bubblesort(int data[], int size);
+int times(int data[], int size);
+
+int main(void)
+{
+	char *student[5] = { "Andy", "Merry", "Sendy", "Pussy", "Shoxie" };
+	int program_score[5] = { 20, 30, 20, 40, 50 };
+	int english_score[5] = { 13, 23, 45, 12, 45 };
+	bubblesort(program_score, 4);
+	bubblesort(english_score, 4);
+	printf("程式設計分數的中位數是%d,眾數是%d\n", program_score[2], times(program_score, 4));
+	printf("英文分數的中位數是%d,眾數是%d\n", english_score[2], times(english_score, 4));
+	system("PAUSE");
+	return 0;
+}
+
+void bubblesort(int data[], int size)
+{
+	for (int i = 0; i <= size; i++)
+	{
+		for (int j = i + 1; j <= size - 1; j++)
+		{
+			if (data[i] > data[j])
+			{
+				int temp = data[i];
+				data[i] = data[j];
+				data[j] = temp;
+			}
+		}
+	}
+}
+int times(int data[], int size)
+{
+	int a[101] = { 0 };
+
+	for (int i = 0; i <= size; i++)
+	{
+		a[data[i]]++;
+	}
+
+	int max_score = 0, max_times = 0;
+
+	for (int j = 0; j <= 101; j++)
+	{
+		if (a[j] > max_times)
+		{
+			max_score = j;
+			max_times = a[j];
+		}
+	}
+
+	return max_score;
+}
+

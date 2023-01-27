@@ -1,0 +1,9 @@
+D:\Projects\網路程式題目練習\計算位元為1的個數\計算位元為1的個數\bin\Debug\計算位元為1的個數.exe
+D:\Projects\網路程式題目練習\計算位元為1的個數\計算位元為1的個數\bin\Debug\計算位元為1的個數.pdb
+D:\Projects\網路程式題目練習\計算位元為1的個數\計算位元為1的個數\bin\Debug\計算位元為1的個數.xml
+D:\Projects\網路程式題目練習\計算位元為1的個數\計算位元為1的個數\obj\x86\Debug\計算位元為1_的個數.Form1.resources
+D:\Projects\網路程式題目練習\計算位元為1的個數\計算位元為1的個數\obj\x86\Debug\計算位元為1_的個數.Resources.resources
+D:\Projects\網路程式題目練習\計算位元為1的個數\計算位元為1的個數\obj\x86\Debug\計算位元為1的個數.vbproj.GenerateResource.Cache
+D:\Projects\網路程式題目練習\計算位元為1的個數\計算位元為1的個數\obj\x86\Debug\計算位元為1的個數.exe
+D:\Projects\網路程式題目練習\計算位元為1的個數\計算位元為1的個數\obj\x86\Debug\計算位元為1的個數.xml
+D:\Projects\網路程式題目練習\計算位元為1的個數\計算位元為1的個數\obj\x86\Debug\計算位元為1的個數.pdb

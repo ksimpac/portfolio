@@ -1,0 +1,12 @@
+C:\Users\ksimpac\Desktop\找大數質數(改良版)\找大數質數(改良版)\bin\Debug\找大數質數(改良版).exe
+C:\Users\ksimpac\Desktop\找大數質數(改良版)\找大數質數(改良版)\bin\Debug\找大數質數(改良版).pdb
+C:\Users\ksimpac\Desktop\找大數質數(改良版)\找大數質數(改良版)\bin\Debug\找大數質數(改良版).xml
+C:\Users\ksimpac\Desktop\找大數質數(改良版)\找大數質數(改良版)\obj\x86\Debug\找大數質數_改良版_.Form1.resources
+C:\Users\ksimpac\Desktop\找大數質數(改良版)\找大數質數(改良版)\obj\x86\Debug\找大數質數_改良版_.Resources.resources
+C:\Users\ksimpac\Desktop\找大數質數(改良版)\找大數質數(改良版)\obj\x86\Debug\找大數質數(改良版).vbproj.GenerateResource.Cache
+C:\Users\ksimpac\Desktop\找大數質數(改良版)\找大數質數(改良版)\obj\x86\Debug\找大數質數(改良版).exe
+C:\Users\ksimpac\Desktop\找大數質數(改良版)\找大數質數(改良版)\obj\x86\Debug\找大數質數(改良版).xml
+C:\Users\ksimpac\Desktop\找大數質數(改良版)\找大數質數(改良版)\obj\x86\Debug\找大數質數(改良版).pdb
+D:\Projects\隨興寫寫\VB\找大數質數(改良版)\找大數質數(改良版)\obj\x86\Debug\找大數質數(改良版).exe
+D:\Projects\隨興寫寫\VB\找大數質數(改良版)\找大數質數(改良版)\obj\x86\Debug\找大數質數(改良版).xml
+D:\Projects\隨興寫寫\VB\找大數質數(改良版)\找大數質數(改良版)\obj\x86\Debug\找大數質數(改良版).pdb

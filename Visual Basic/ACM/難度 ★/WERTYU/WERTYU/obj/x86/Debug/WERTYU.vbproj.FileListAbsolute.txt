@@ -1,0 +1,9 @@
+C:\Users\MLVS\Desktop\程式試題\ACM\WERTYU\WERTYU\bin\Debug\WERTYU.exe
+C:\Users\MLVS\Desktop\程式試題\ACM\WERTYU\WERTYU\bin\Debug\WERTYU.pdb
+C:\Users\MLVS\Desktop\程式試題\ACM\WERTYU\WERTYU\bin\Debug\WERTYU.xml
+C:\Users\MLVS\Desktop\程式試題\ACM\WERTYU\WERTYU\obj\x86\Debug\WERTYU.Form1.resources
+C:\Users\MLVS\Desktop\程式試題\ACM\WERTYU\WERTYU\obj\x86\Debug\WERTYU.Resources.resources
+C:\Users\MLVS\Desktop\程式試題\ACM\WERTYU\WERTYU\obj\x86\Debug\WERTYU.vbproj.GenerateResource.Cache
+C:\Users\MLVS\Desktop\程式試題\ACM\WERTYU\WERTYU\obj\x86\Debug\WERTYU.exe
+C:\Users\MLVS\Desktop\程式試題\ACM\WERTYU\WERTYU\obj\x86\Debug\WERTYU.xml
+C:\Users\MLVS\Desktop\程式試題\ACM\WERTYU\WERTYU\obj\x86\Debug\WERTYU.pdb

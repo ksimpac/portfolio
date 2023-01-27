@@ -1,0 +1,18 @@
+C:\Users\ksimpac\AppData\Local\Temporary Projects\Dropping Balls\bin\Debug\Dropping Balls.exe
+C:\Users\ksimpac\AppData\Local\Temporary Projects\Dropping Balls\bin\Debug\Dropping Balls.pdb
+C:\Users\ksimpac\AppData\Local\Temporary Projects\Dropping Balls\bin\Debug\Dropping Balls.xml
+C:\Users\ksimpac\AppData\Local\Temporary Projects\Dropping Balls\obj\x86\Debug\Dropping_Balls.Form1.resources
+C:\Users\ksimpac\AppData\Local\Temporary Projects\Dropping Balls\obj\x86\Debug\Dropping_Balls.Resources.resources
+C:\Users\ksimpac\AppData\Local\Temporary Projects\Dropping Balls\obj\x86\Debug\Dropping Balls.vbproj.GenerateResource.Cache
+C:\Users\ksimpac\AppData\Local\Temporary Projects\Dropping Balls\obj\x86\Debug\Dropping Balls.exe
+C:\Users\ksimpac\AppData\Local\Temporary Projects\Dropping Balls\obj\x86\Debug\Dropping Balls.xml
+C:\Users\ksimpac\AppData\Local\Temporary Projects\Dropping Balls\obj\x86\Debug\Dropping Balls.pdb
+E:\Projects\ACM\難度 ★★\Dropping Balls\Dropping Balls\obj\x86\Debug\Dropping Balls.exe
+E:\Projects\ACM\難度 ★★\Dropping Balls\Dropping Balls\obj\x86\Debug\Dropping Balls.xml
+E:\Projects\ACM\難度 ★★\Dropping Balls\Dropping Balls\obj\x86\Debug\Dropping Balls.pdb
+E:\Projects\ACM\難度 ★★\Dropping Balls\Dropping Balls\bin\Debug\Dropping Balls.exe
+E:\Projects\ACM\難度 ★★\Dropping Balls\Dropping Balls\bin\Debug\Dropping Balls.pdb
+E:\Projects\ACM\難度 ★★\Dropping Balls\Dropping Balls\bin\Debug\Dropping Balls.xml
+E:\Projects\ACM\難度 ★★\Dropping Balls\Dropping Balls\obj\x86\Debug\Dropping_Balls.Form1.resources
+E:\Projects\ACM\難度 ★★\Dropping Balls\Dropping Balls\obj\x86\Debug\Dropping_Balls.Resources.resources
+E:\Projects\ACM\難度 ★★\Dropping Balls\Dropping Balls\obj\x86\Debug\Dropping Balls.vbproj.GenerateResource.Cache

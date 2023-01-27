@@ -1,0 +1,9 @@
+D:\Projects\大學生程式解題系統\字典排序\字典排序\bin\Debug\字典排序.exe
+D:\Projects\大學生程式解題系統\字典排序\字典排序\bin\Debug\字典排序.pdb
+D:\Projects\大學生程式解題系統\字典排序\字典排序\bin\Debug\字典排序.xml
+D:\Projects\大學生程式解題系統\字典排序\字典排序\obj\x86\Debug\字典排序.Form1.resources
+D:\Projects\大學生程式解題系統\字典排序\字典排序\obj\x86\Debug\字典排序.Resources.resources
+D:\Projects\大學生程式解題系統\字典排序\字典排序\obj\x86\Debug\字典排序.vbproj.GenerateResource.Cache
+D:\Projects\大學生程式解題系統\字典排序\字典排序\obj\x86\Debug\字典排序.exe
+D:\Projects\大學生程式解題系統\字典排序\字典排序\obj\x86\Debug\字典排序.xml
+D:\Projects\大學生程式解題系統\字典排序\字典排序\obj\x86\Debug\字典排序.pdb

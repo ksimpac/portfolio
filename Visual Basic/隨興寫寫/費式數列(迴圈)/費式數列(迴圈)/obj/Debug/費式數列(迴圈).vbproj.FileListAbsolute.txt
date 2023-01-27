@@ -1,0 +1,11 @@
+E:\Projects\隨興寫寫\VB\費式數列(迴圈)\費式數列(迴圈)\bin\Debug\費式數列(迴圈).exe.config
+E:\Projects\隨興寫寫\VB\費式數列(迴圈)\費式數列(迴圈)\bin\Debug\費式數列(迴圈).exe
+E:\Projects\隨興寫寫\VB\費式數列(迴圈)\費式數列(迴圈)\bin\Debug\費式數列(迴圈).pdb
+E:\Projects\隨興寫寫\VB\費式數列(迴圈)\費式數列(迴圈)\bin\Debug\費式數列(迴圈).xml
+E:\Projects\隨興寫寫\VB\費式數列(迴圈)\費式數列(迴圈)\obj\Debug\費式數列(迴圈).vbprojResolveAssemblyReference.cache
+E:\Projects\隨興寫寫\VB\費式數列(迴圈)\費式數列(迴圈)\obj\Debug\費式數列_迴圈_.Form1.resources
+E:\Projects\隨興寫寫\VB\費式數列(迴圈)\費式數列(迴圈)\obj\Debug\費式數列_迴圈_.Resources.resources
+E:\Projects\隨興寫寫\VB\費式數列(迴圈)\費式數列(迴圈)\obj\Debug\費式數列(迴圈).vbproj.GenerateResource.Cache
+E:\Projects\隨興寫寫\VB\費式數列(迴圈)\費式數列(迴圈)\obj\Debug\費式數列(迴圈).exe
+E:\Projects\隨興寫寫\VB\費式數列(迴圈)\費式數列(迴圈)\obj\Debug\費式數列(迴圈).xml
+E:\Projects\隨興寫寫\VB\費式數列(迴圈)\費式數列(迴圈)\obj\Debug\費式數列(迴圈).pdb

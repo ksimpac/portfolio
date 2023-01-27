@@ -1,0 +1,22 @@
+7
+Los Angeles,Bakersfield,140
+Los Angeles,Barstow,80
+Bakersfield,Barstow,100
+Bakersfield,Fresno,120
+Bakersfield,William Randolph Hearst Memorial SB,130
+Fresno,Sacramento,200
+Sacramento,San Francisco,80
+5
+Barstow,Los Angeles
+Los Angeles,Fresno
+William Randolph Hearst Memorial SB,Bakersfield
+William Randolph Hearst Memorial SB,XYZ
+AAA,BBB
+-----
+2
+Los Angeles,San Francisco,500
+Los Angeles,Barstow,80
+1
+Barstow,Los Angeles
+-----
+-----

@@ -1,0 +1,9 @@
+E:\Projects\隨興寫寫\Class Test\Class Test\bin\Debug\Class Test.exe.config
+E:\Projects\隨興寫寫\Class Test\Class Test\bin\Debug\Class Test.exe
+E:\Projects\隨興寫寫\Class Test\Class Test\bin\Debug\Class Test.pdb
+E:\Projects\隨興寫寫\Class Test\Class Test\obj\Debug\Class Test.csprojResolveAssemblyReference.cache
+E:\Projects\隨興寫寫\Class Test\Class Test\obj\Debug\Class_Test.Form1.resources
+E:\Projects\隨興寫寫\Class Test\Class Test\obj\Debug\Class_Test.Properties.Resources.resources
+E:\Projects\隨興寫寫\Class Test\Class Test\obj\Debug\Class Test.csproj.GenerateResource.Cache
+E:\Projects\隨興寫寫\Class Test\Class Test\obj\Debug\Class Test.exe
+E:\Projects\隨興寫寫\Class Test\Class Test\obj\Debug\Class Test.pdb

@@ -1,0 +1,12 @@
+D:\Projects\技藝競賽題目\101年正式\編碼\編碼\bin\Debug\編碼.exe
+D:\Projects\技藝競賽題目\101年正式\編碼\編碼\bin\Debug\編碼.pdb
+D:\Projects\技藝競賽題目\101年正式\編碼\編碼\bin\Debug\編碼.xml
+D:\Projects\技藝競賽題目\101年正式\編碼\編碼\obj\x86\Debug\編碼.Form1.resources
+D:\Projects\技藝競賽題目\101年正式\編碼\編碼\obj\x86\Debug\編碼.Resources.resources
+D:\Projects\技藝競賽題目\101年正式\編碼\編碼\obj\x86\Debug\編碼.vbproj.GenerateResource.Cache
+D:\Projects\技藝競賽題目\101年正式\編碼\編碼\obj\x86\Debug\編碼.exe
+D:\Projects\技藝競賽題目\101年正式\編碼\編碼\obj\x86\Debug\編碼.xml
+D:\Projects\技藝競賽題目\101年正式\編碼\編碼\obj\x86\Debug\編碼.pdb
+E:\Projects\技藝競賽題目\101年正式\編碼\編碼\obj\x86\Debug\編碼.exe
+E:\Projects\技藝競賽題目\101年正式\編碼\編碼\obj\x86\Debug\編碼.xml
+E:\Projects\技藝競賽題目\101年正式\編碼\編碼\obj\x86\Debug\編碼.pdb

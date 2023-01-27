@@ -1,0 +1,6 @@
+D:\Projects\C#寫的題目\測試用\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Projects\C#寫的題目\測試用\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Projects\C#寫的題目\測試用\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Projects\C#寫的題目\測試用\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Projects\C#寫的題目\測試用\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Projects\C#寫的題目\測試用\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

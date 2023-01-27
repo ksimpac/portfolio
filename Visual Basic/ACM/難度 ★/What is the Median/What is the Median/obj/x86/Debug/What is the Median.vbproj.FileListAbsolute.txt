@@ -1,0 +1,9 @@
+C:\Users\MLVS\Desktop\程式試題\ACM\What is the Median\What is the Median\bin\Debug\What is the Median.exe
+C:\Users\MLVS\Desktop\程式試題\ACM\What is the Median\What is the Median\bin\Debug\What is the Median.pdb
+C:\Users\MLVS\Desktop\程式試題\ACM\What is the Median\What is the Median\bin\Debug\What is the Median.xml
+C:\Users\MLVS\Desktop\程式試題\ACM\What is the Median\What is the Median\obj\x86\Debug\What_is_the_Median.Form1.resources
+C:\Users\MLVS\Desktop\程式試題\ACM\What is the Median\What is the Median\obj\x86\Debug\What_is_the_Median.Resources.resources
+C:\Users\MLVS\Desktop\程式試題\ACM\What is the Median\What is the Median\obj\x86\Debug\What is the Median.vbproj.GenerateResource.Cache
+C:\Users\MLVS\Desktop\程式試題\ACM\What is the Median\What is the Median\obj\x86\Debug\What is the Median.exe
+C:\Users\MLVS\Desktop\程式試題\ACM\What is the Median\What is the Median\obj\x86\Debug\What is the Median.xml
+C:\Users\MLVS\Desktop\程式試題\ACM\What is the Median\What is the Median\obj\x86\Debug\What is the Median.pdb

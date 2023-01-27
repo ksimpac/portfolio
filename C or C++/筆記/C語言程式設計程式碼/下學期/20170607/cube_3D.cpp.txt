@@ -1,0 +1,18 @@
+#include "cube_3D.h"
+#include <iostream>
+
+using namespace std;
+
+void cube_3D::comput_volume()
+{
+	width = length;
+	height = width;
+	cout << "正方體體積為:" << length*width*height << endl;
+}
+
+void cube_3D::compute_surface()
+{
+	width = length;
+	height = width;
+	cout << "正方體表面積為:" << length*width*6 << endl;
+}

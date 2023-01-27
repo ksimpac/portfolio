@@ -1,0 +1,29 @@
+C:\Users\ksimpac\AppData\Local\Temporary Projects\打地鼠(更新)\bin\Debug\打地鼠(更新).exe
+C:\Users\ksimpac\AppData\Local\Temporary Projects\打地鼠(更新)\bin\Debug\打地鼠(更新).pdb
+C:\Users\ksimpac\AppData\Local\Temporary Projects\打地鼠(更新)\bin\Debug\打地鼠(更新).xml
+C:\Users\ksimpac\AppData\Local\Temporary Projects\打地鼠(更新)\obj\x86\Debug\打地鼠_更新_.Form1.resources
+C:\Users\ksimpac\AppData\Local\Temporary Projects\打地鼠(更新)\obj\x86\Debug\打地鼠_更新_.Resources.resources
+C:\Users\ksimpac\AppData\Local\Temporary Projects\打地鼠(更新)\obj\x86\Debug\打地鼠(更新).vbproj.GenerateResource.Cache
+C:\Users\ksimpac\AppData\Local\Temporary Projects\打地鼠(更新)\obj\x86\Debug\打地鼠(更新).exe
+C:\Users\ksimpac\AppData\Local\Temporary Projects\打地鼠(更新)\obj\x86\Debug\打地鼠(更新).xml
+C:\Users\ksimpac\AppData\Local\Temporary Projects\打地鼠(更新)\obj\x86\Debug\打地鼠(更新).pdb
+C:\Users\ksimpac\Desktop\打地鼠(更新)\obj\x86\Debug\打地鼠(更新).exe
+C:\Users\ksimpac\Desktop\打地鼠(更新)\obj\x86\Debug\打地鼠(更新).xml
+C:\Users\ksimpac\Desktop\打地鼠(更新)\obj\x86\Debug\打地鼠(更新).pdb
+C:\Users\ksimpac\Desktop\打地鼠(更新)\bin\Debug\打地鼠(更新).exe
+C:\Users\ksimpac\Desktop\打地鼠(更新)\bin\Debug\打地鼠(更新).pdb
+C:\Users\ksimpac\Desktop\打地鼠(更新)\bin\Debug\打地鼠(更新).xml
+C:\Users\ksimpac\Desktop\打地鼠(更新)\obj\x86\Debug\打地鼠_更新_.Form1.resources
+C:\Users\ksimpac\Desktop\打地鼠(更新)\obj\x86\Debug\打地鼠_更新_.Form2.resources
+C:\Users\ksimpac\Desktop\打地鼠(更新)\obj\x86\Debug\打地鼠_更新_.Resources.resources
+C:\Users\ksimpac\Desktop\打地鼠(更新)\obj\x86\Debug\打地鼠(更新).vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\第三組\打地鼠(更新)\obj\x86\Debug\打地鼠(更新).exe
+C:\Users\User\Desktop\第三組\打地鼠(更新)\obj\x86\Debug\打地鼠(更新).xml
+C:\Users\User\Desktop\第三組\打地鼠(更新)\obj\x86\Debug\打地鼠(更新).pdb
+C:\Users\User\Desktop\第三組\打地鼠(更新)\bin\Debug\打地鼠(更新).exe
+C:\Users\User\Desktop\第三組\打地鼠(更新)\bin\Debug\打地鼠(更新).pdb
+C:\Users\User\Desktop\第三組\打地鼠(更新)\bin\Debug\打地鼠(更新).xml
+C:\Users\User\Desktop\第三組\打地鼠(更新)\obj\x86\Debug\打地鼠_更新_.Form1.resources
+C:\Users\User\Desktop\第三組\打地鼠(更新)\obj\x86\Debug\打地鼠_更新_.Form2.resources
+C:\Users\User\Desktop\第三組\打地鼠(更新)\obj\x86\Debug\打地鼠_更新_.Resources.resources
+C:\Users\User\Desktop\第三組\打地鼠(更新)\obj\x86\Debug\打地鼠(更新).vbproj.GenerateResource.Cache

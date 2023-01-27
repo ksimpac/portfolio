@@ -1,0 +1,14 @@
+D:\Projects\克拉瑪公式\克拉瑪公式\bin\Debug\克拉瑪公式.exe.config
+D:\Projects\克拉瑪公式\克拉瑪公式\bin\Debug\克拉瑪公式.exe
+D:\Projects\克拉瑪公式\克拉瑪公式\bin\Debug\克拉瑪公式.pdb
+D:\Projects\克拉瑪公式\克拉瑪公式\bin\Debug\克拉瑪公式.xml
+D:\Projects\克拉瑪公式\克拉瑪公式\obj\Debug\克拉瑪公式.Form1.resources
+D:\Projects\克拉瑪公式\克拉瑪公式\obj\Debug\克拉瑪公式.Resources.resources
+D:\Projects\克拉瑪公式\克拉瑪公式\obj\Debug\克拉瑪公式.vbproj.GenerateResource.Cache
+D:\Projects\克拉瑪公式\克拉瑪公式\obj\Debug\克拉瑪公式.exe
+D:\Projects\克拉瑪公式\克拉瑪公式\obj\Debug\克拉瑪公式.xml
+D:\Projects\克拉瑪公式\克拉瑪公式\obj\Debug\克拉瑪公式.pdb
+D:\Projects\程式基本練習\克拉瑪公式\克拉瑪公式\bin\Debug\克拉瑪公式.exe.config
+D:\Projects\程式基本練習\克拉瑪公式\克拉瑪公式\obj\Debug\克拉瑪公式.exe
+D:\Projects\程式基本練習\克拉瑪公式\克拉瑪公式\obj\Debug\克拉瑪公式.xml
+D:\Projects\程式基本練習\克拉瑪公式\克拉瑪公式\obj\Debug\克拉瑪公式.pdb

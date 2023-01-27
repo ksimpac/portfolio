@@ -1,0 +1,96 @@
+﻿#include <stdio.h>
+#include <stdlib.h>
+
+struct ClientData
+{
+	unsigned int acctNum;
+	char lastName[15];
+	char firstName[10];
+	double balance;
+};
+
+void create(void);
+void input(void);
+void search(void);
+
+int main(void)
+{
+	create();
+	input();
+	search();
+	system("PAUSE");
+	return 0;
+}
+
+void create(void) //建立100個空白資料
+{
+	struct ClientData blankClient = { 0, "", "", 0.0 };
+	FILE *cfPtr = NULL; //宣告檔案指標
+	fopen_s(&cfPtr, "data.txt", "wb"); //將指標指向檔案
+
+	for (int i = 1; i <= 100; i++)
+	{
+		fwrite(&blankClient, sizeof(struct ClientData), 1, cfPtr);
+	}
+
+	fclose(cfPtr); //關閉檔案
+ 
+}
+
+void input(void) //輸入資料
+{
+	struct ClientData Client = { 1, "", "", 0.0 };
+	FILE *cfPtr = NULL; //宣告檔案指標
+	fopen_s(&cfPtr, "data.txt", "wb"); //將指標指向檔案
+
+	while (Client.acctNum != 0) //帳戶不為0時進入while迴圈，否則跳出
+	{
+
+		printf("請輸入帳戶:");
+		scanf_s("%d", &Client.acctNum);
+
+		if (Client.acctNum == 0)
+		{
+			break;
+		}
+
+		printf("請輸入姓氏:");
+		scanf_s("%s", Client.lastName, 15);
+		printf("請輸入名子:");
+		scanf_s("%s", Client.firstName, 10);
+		printf("請輸入帳戶餘額:");
+		scanf_s("%lf", &Client.balance);
+
+		fwrite(&Client, sizeof(struct ClientData), 1, cfPtr);
+		printf("\n");
+	}
+
+	fclose(cfPtr); //關閉檔案
+
+}
+void search(void) //搜尋第n筆資料並印出
+{
+	int number = 0;
+	printf("請輸入要搜尋第幾筆資料:");
+	scanf_s("%d", &number);
+
+	struct ClientData Client = { 1, "", "", 0.0 };
+	FILE *cfPtr = NULL; //宣告檔案指標
+	fopen_s(&cfPtr, "data.txt", "rb"); //將指標指向檔案
+
+	fseek(cfPtr, (number - 1) * sizeof(struct ClientData), 1, SEEK_SET); //移動檔案指標
+	fread_s(&Client, sizeof(struct ClientData), sizeof(struct ClientData), 1, cfPtr); //讀取資料
+
+	/*
+	   fread_s參考資料:
+	   http://docs.manew.com/cpp/1220.html
+	   字節 = 位元組
+	*/
+
+	printf("帳戶編號:%d\n", Client.acctNum);
+	printf("姓氏:%s\n", Client.lastName);
+	printf("名子:%s\n", Client.firstName);
+	printf("帳戶餘額:%lf\n", Client.balance);
+         
+        fclose(cfPtr); //關閉檔案
+}

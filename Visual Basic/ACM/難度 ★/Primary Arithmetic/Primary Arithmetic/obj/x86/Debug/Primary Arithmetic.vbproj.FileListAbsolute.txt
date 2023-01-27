@@ -1,0 +1,9 @@
+C:\Users\MLVS\Desktop\程式試題\ACM\Primary Arithmetic\Primary Arithmetic\bin\Debug\Primary Arithmetic.exe
+C:\Users\MLVS\Desktop\程式試題\ACM\Primary Arithmetic\Primary Arithmetic\bin\Debug\Primary Arithmetic.pdb
+C:\Users\MLVS\Desktop\程式試題\ACM\Primary Arithmetic\Primary Arithmetic\bin\Debug\Primary Arithmetic.xml
+C:\Users\MLVS\Desktop\程式試題\ACM\Primary Arithmetic\Primary Arithmetic\obj\x86\Debug\Primary_Arithmetic.Form1.resources
+C:\Users\MLVS\Desktop\程式試題\ACM\Primary Arithmetic\Primary Arithmetic\obj\x86\Debug\Primary_Arithmetic.Resources.resources
+C:\Users\MLVS\Desktop\程式試題\ACM\Primary Arithmetic\Primary Arithmetic\obj\x86\Debug\Primary Arithmetic.vbproj.GenerateResource.Cache
+C:\Users\MLVS\Desktop\程式試題\ACM\Primary Arithmetic\Primary Arithmetic\obj\x86\Debug\Primary Arithmetic.exe
+C:\Users\MLVS\Desktop\程式試題\ACM\Primary Arithmetic\Primary Arithmetic\obj\x86\Debug\Primary Arithmetic.xml
+C:\Users\MLVS\Desktop\程式試題\ACM\Primary Arithmetic\Primary Arithmetic\obj\x86\Debug\Primary Arithmetic.pdb

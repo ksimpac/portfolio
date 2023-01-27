@@ -1,0 +1,12 @@
+{
+    "name": "user/phpword_test",
+    "authors": [
+        {
+            "name": "ksimpac",
+            "email": "adasl0376210456789@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpword": "^0.17.0"
+    }
+}

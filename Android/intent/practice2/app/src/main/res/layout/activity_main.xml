@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/text1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="A="
+        android:textColor="#0000FF"
+        android:textSize="20sp"
+        tools:ignore="HardcodedText"
+        />
+
+    <TextView
+        android:id = "@+id/text2"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginTop="40sp"
+        android:text = "B="
+        android:textSize = "20sp"
+        android:textColor = "#0000FF"
+        app:layout_constraintTop_toBottomOf="@id/text1"
+        tools:ignore = "HardcodedText"
+        />
+
+    <EditText
+        android:id="@+id/et1"
+        android:layout_width="300sp"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        app:layout_constraintLeft_toRightOf="@id/text1"
+        tools:ignore="LabelFor"
+         />
+
+    <EditText
+        android:id="@+id/et2"
+        android:layout_width="300sp"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        app:layout_constraintTop_toBottomOf="@id/et1"
+        app:layout_constraintLeft_toRightOf="@id/text2"
+        tools:ignore="LabelFor" />
+
+    <Button
+        android:id="@+id/btn_next"
+        android:layout_height="wrap_content"
+        android:layout_width = "match_parent"
+        android:text = "開啟另一頁面顯示兩數之和"
+        app:layout_constraintTop_toBottomOf="@id/et2"
+        tools:ignore = "HardcodedText"
+        />
+</android.support.constraint.ConstraintLayout>

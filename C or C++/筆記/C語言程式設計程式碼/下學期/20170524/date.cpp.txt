@@ -1,0 +1,102 @@
+﻿#include "date.h"
+#include <iostream>
+#include <iomanip>
+
+using namespace std;
+
+date::date()
+{
+	year = 0;
+	mouth = 0;
+	day = 0;
+}
+
+void date::setDate(int y, int m, int d)
+{
+	year = y;
+	
+	print = true;
+
+	switch (m)
+	{
+	   case 1:
+	   case 3:
+	   case 5:
+	   case 7:
+	   case 8:
+	   case 10:
+	   case 12:
+
+		   if (d > 31)
+		   {
+			   cout << "日期錯誤" << endl;
+			   print = false;
+		   }
+		   else
+		   {
+			   mouth = m;
+			   day = d;
+		   }
+
+		   break;
+
+	   case 4:
+	   case 6:
+	   case 9:
+	   case 11:
+
+		   if (d > 30)
+		   {
+			   cout << "日期錯誤" << endl;
+			   print = false;
+		   }
+		   else
+		   {
+			   mouth = m;
+			   day = d;
+		   }
+
+		   break;
+
+	   case 2:
+
+		   int max;
+
+		   if (y % 4 == 0)
+		   {
+			   max = 29;
+		   }
+		   else
+		   {
+			   max = 28;
+		   }
+
+
+		   if (d > max)
+		   {
+			   cout << "日期錯誤" << endl;
+			   print = false;
+		   }
+		   else
+		   {
+			   mouth = m;
+			   day = d;
+		   }
+
+		   break;
+	   default:
+
+		   cout << "月份錯誤" << endl;
+		   print = false;
+		   break;
+	}
+}
+
+void date::printDate()
+{
+	if (print == true)
+	{
+		cout << "西元 " << setfill('0') << setw(4) << year << "年 " << setfill('0') << setw(2) << mouth << "月 " << setfill('0') << setw(2) << day << "日" << endl;
+		cout << "民國 " << setfill('0') << year - 1911 << "年 " << setfill('0') << setw(2) << mouth << "月 " << setfill('0') << setw(2) << day << "日" << endl;
+	}
+}

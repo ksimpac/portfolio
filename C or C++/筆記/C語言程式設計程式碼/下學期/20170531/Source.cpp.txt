@@ -1,0 +1,32 @@
+#include "ROC_Date.h"
+#include "BC_Date.h"
+#include <iostream>
+using namespace std;
+
+void call(int, int, int);
+
+int main(void)
+{
+
+	int y, m, d;
+
+	cout << "請輸入西元年:";
+	cin >> y;
+
+	cout << "請輸入月份:";
+	cin >> m;
+
+	cout << "請輸入日期:";
+	cin >> d;
+
+	call(y, m, d);
+
+	system("PAUSE");
+	return 0;
+}
+
+void call(int y,int m, int d)
+{
+	BC_Date t2(y, m, d);
+	ROC_Date t1(y-1911, m, d);
+}

@@ -1,0 +1,9 @@
+C:\Users\ksimpac\AppData\Local\Temporary Projects\輾轉相除法(迴圈)\bin\Debug\輾轉相除法(迴圈).exe
+C:\Users\ksimpac\AppData\Local\Temporary Projects\輾轉相除法(迴圈)\bin\Debug\輾轉相除法(迴圈).pdb
+C:\Users\ksimpac\AppData\Local\Temporary Projects\輾轉相除法(迴圈)\bin\Debug\輾轉相除法(迴圈).xml
+C:\Users\ksimpac\AppData\Local\Temporary Projects\輾轉相除法(迴圈)\obj\x86\Debug\輾轉相除法_迴圈_.Form1.resources
+C:\Users\ksimpac\AppData\Local\Temporary Projects\輾轉相除法(迴圈)\obj\x86\Debug\輾轉相除法_迴圈_.Resources.resources
+C:\Users\ksimpac\AppData\Local\Temporary Projects\輾轉相除法(迴圈)\obj\x86\Debug\輾轉相除法(迴圈).vbproj.GenerateResource.Cache
+C:\Users\ksimpac\AppData\Local\Temporary Projects\輾轉相除法(迴圈)\obj\x86\Debug\輾轉相除法(迴圈).exe
+C:\Users\ksimpac\AppData\Local\Temporary Projects\輾轉相除法(迴圈)\obj\x86\Debug\輾轉相除法(迴圈).xml
+C:\Users\ksimpac\AppData\Local\Temporary Projects\輾轉相除法(迴圈)\obj\x86\Debug\輾轉相除法(迴圈).pdb

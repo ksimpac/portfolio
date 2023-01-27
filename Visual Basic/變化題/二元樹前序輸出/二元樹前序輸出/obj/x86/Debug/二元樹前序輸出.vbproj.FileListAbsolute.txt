@@ -1,0 +1,9 @@
+C:\Users\MLVS\Desktop\變化題\二元樹前序輸出\二元樹前序輸出\bin\Debug\二元樹前序輸出.exe
+C:\Users\MLVS\Desktop\變化題\二元樹前序輸出\二元樹前序輸出\bin\Debug\二元樹前序輸出.pdb
+C:\Users\MLVS\Desktop\變化題\二元樹前序輸出\二元樹前序輸出\bin\Debug\二元樹前序輸出.xml
+C:\Users\MLVS\Desktop\變化題\二元樹前序輸出\二元樹前序輸出\obj\x86\Debug\二元樹前序輸出.Form1.resources
+C:\Users\MLVS\Desktop\變化題\二元樹前序輸出\二元樹前序輸出\obj\x86\Debug\二元樹前序輸出.Resources.resources
+C:\Users\MLVS\Desktop\變化題\二元樹前序輸出\二元樹前序輸出\obj\x86\Debug\二元樹前序輸出.vbproj.GenerateResource.Cache
+C:\Users\MLVS\Desktop\變化題\二元樹前序輸出\二元樹前序輸出\obj\x86\Debug\二元樹前序輸出.exe
+C:\Users\MLVS\Desktop\變化題\二元樹前序輸出\二元樹前序輸出\obj\x86\Debug\二元樹前序輸出.xml
+C:\Users\MLVS\Desktop\變化題\二元樹前序輸出\二元樹前序輸出\obj\x86\Debug\二元樹前序輸出.pdb

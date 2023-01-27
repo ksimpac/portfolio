@@ -1,0 +1,11 @@
+#ifndef square_2D_h
+
+#define square_2D_h
+class square_2D
+{
+   public:
+	   void comput_area();
+	   double length;
+	   double width;
+};
+#endif

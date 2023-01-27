@@ -1,0 +1,14 @@
+D:\Projects\技藝競賽題目\103年模擬試題\樂透\樂透\bin\Debug\樂透.exe.config
+D:\Projects\技藝競賽題目\103年模擬試題\樂透\樂透\bin\Debug\樂透.exe
+D:\Projects\技藝競賽題目\103年模擬試題\樂透\樂透\bin\Debug\樂透.pdb
+D:\Projects\技藝競賽題目\103年模擬試題\樂透\樂透\bin\Debug\樂透.xml
+D:\Projects\技藝競賽題目\103年模擬試題\樂透\樂透\obj\Debug\樂透.Form1.resources
+D:\Projects\技藝競賽題目\103年模擬試題\樂透\樂透\obj\Debug\樂透.Resources.resources
+D:\Projects\技藝競賽題目\103年模擬試題\樂透\樂透\obj\Debug\樂透.vbproj.GenerateResource.Cache
+D:\Projects\技藝競賽題目\103年模擬試題\樂透\樂透\obj\Debug\樂透.exe
+D:\Projects\技藝競賽題目\103年模擬試題\樂透\樂透\obj\Debug\樂透.xml
+D:\Projects\技藝競賽題目\103年模擬試題\樂透\樂透\obj\Debug\樂透.pdb
+E:\Projects\技藝競賽題目\103年模擬試題\樂透\樂透\bin\Debug\樂透.exe.config
+E:\Projects\技藝競賽題目\103年模擬試題\樂透\樂透\obj\Debug\樂透.exe
+E:\Projects\技藝競賽題目\103年模擬試題\樂透\樂透\obj\Debug\樂透.xml
+E:\Projects\技藝競賽題目\103年模擬試題\樂透\樂透\obj\Debug\樂透.pdb

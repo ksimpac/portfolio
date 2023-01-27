@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WERTYU", "WERTYU\WERTYU.vbproj", "{045ECC16-65E2-4F98-AC58-D13A53B1939C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{045ECC16-65E2-4F98-AC58-D13A53B1939C}.Debug|x86.ActiveCfg = Debug|x86
+		{045ECC16-65E2-4F98-AC58-D13A53B1939C}.Debug|x86.Build.0 = Debug|x86
+		{045ECC16-65E2-4F98-AC58-D13A53B1939C}.Release|x86.ActiveCfg = Release|x86
+		{045ECC16-65E2-4F98-AC58-D13A53B1939C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

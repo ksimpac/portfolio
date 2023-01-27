@@ -1,0 +1,9 @@
+D:\Projects\技藝競賽題目\103年正式試題\數學問題\數學問題\bin\Debug\數學問題.exe
+D:\Projects\技藝競賽題目\103年正式試題\數學問題\數學問題\bin\Debug\數學問題.pdb
+D:\Projects\技藝競賽題目\103年正式試題\數學問題\數學問題\bin\Debug\數學問題.xml
+D:\Projects\技藝競賽題目\103年正式試題\數學問題\數學問題\obj\x86\Debug\數學問題.Form1.resources
+D:\Projects\技藝競賽題目\103年正式試題\數學問題\數學問題\obj\x86\Debug\數學問題.Resources.resources
+D:\Projects\技藝競賽題目\103年正式試題\數學問題\數學問題\obj\x86\Debug\數學問題.vbproj.GenerateResource.Cache
+D:\Projects\技藝競賽題目\103年正式試題\數學問題\數學問題\obj\x86\Debug\數學問題.exe
+D:\Projects\技藝競賽題目\103年正式試題\數學問題\數學問題\obj\x86\Debug\數學問題.xml
+D:\Projects\技藝競賽題目\103年正式試題\數學問題\數學問題\obj\x86\Debug\數學問題.pdb

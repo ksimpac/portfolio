@@ -1,0 +1,49 @@
+﻿#include <stdio.h>
+#include <stdlib.h>
+#include <math.h>
+//原型宣告
+int fact(int a);
+double exp_const(int term);
+double ex(int term, int x);
+int main(void) //主程式
+{
+	int term = 0, x = 0;
+	double result = 0.0, e = 0;
+	e = exp_const(33); //直接算到第33項 第34項會爆掉
+	printf("e = %f\n",e);
+	printf("計算e的幾次方?");
+	scanf_s("%d", &x);
+	printf("計算到第幾項?");
+	scanf_s("%d", &term);
+	result = ex(term, x); //用副程式計算e的x次方
+	printf("%f\n", result); //印出結果
+	system("PAUSE");
+	return 0;
+}
+int fact(int a) //計算階層
+{
+	int fact = 1; //預設為0階層(0! = 1)
+	for (int i = 1; i <= a; i++) //從1乘到a
+	{
+		fact = fact * i;
+	}
+	return fact;
+}
+double exp_const(int term) //計算e
+{
+	double result = 1.0;
+	for (int i = 1; i <= term; i++)
+	{
+		result = result + 1 / (double)fact(i);
+	}
+	return result;
+}
+double ex(int term, int x) //計算e的x次方 term是算到第幾項 x是要算e的幾次方
+{
+	double result = 1.0;
+	for (int i = 1; i <= term; i++) //一次直接算到第term項
+	{
+		result = result + (double)pow(x, i) / (double)fact(i); //直接套用c的公式存到result裡
+	}
+	return result;
+}

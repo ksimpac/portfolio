@@ -1,0 +1,9 @@
+D:\Projects\技藝競賽題目\101年正式\關鍵字排名\關鍵字排名\bin\Debug\關鍵字排名.exe
+D:\Projects\技藝競賽題目\101年正式\關鍵字排名\關鍵字排名\bin\Debug\關鍵字排名.pdb
+D:\Projects\技藝競賽題目\101年正式\關鍵字排名\關鍵字排名\bin\Debug\關鍵字排名.xml
+D:\Projects\技藝競賽題目\101年正式\關鍵字排名\關鍵字排名\obj\x86\Debug\關鍵字排名.Form1.resources
+D:\Projects\技藝競賽題目\101年正式\關鍵字排名\關鍵字排名\obj\x86\Debug\關鍵字排名.Resources.resources
+D:\Projects\技藝競賽題目\101年正式\關鍵字排名\關鍵字排名\obj\x86\Debug\關鍵字排名.vbproj.GenerateResource.Cache
+D:\Projects\技藝競賽題目\101年正式\關鍵字排名\關鍵字排名\obj\x86\Debug\關鍵字排名.exe
+D:\Projects\技藝競賽題目\101年正式\關鍵字排名\關鍵字排名\obj\x86\Debug\關鍵字排名.xml
+D:\Projects\技藝競賽題目\101年正式\關鍵字排名\關鍵字排名\obj\x86\Debug\關鍵字排名.pdb

@@ -1,0 +1,9 @@
+C:\Users\MLVS\Desktop\程式試題\ACM\Hashmat the brave warrior\Hashmat the brave warrior\bin\Debug\Hashmat the brave warrior.exe
+C:\Users\MLVS\Desktop\程式試題\ACM\Hashmat the brave warrior\Hashmat the brave warrior\bin\Debug\Hashmat the brave warrior.pdb
+C:\Users\MLVS\Desktop\程式試題\ACM\Hashmat the brave warrior\Hashmat the brave warrior\bin\Debug\Hashmat the brave warrior.xml
+C:\Users\MLVS\Desktop\程式試題\ACM\Hashmat the brave warrior\Hashmat the brave warrior\obj\x86\Debug\Hashmat_the_brave_warrior.Form1.resources
+C:\Users\MLVS\Desktop\程式試題\ACM\Hashmat the brave warrior\Hashmat the brave warrior\obj\x86\Debug\Hashmat_the_brave_warrior.Resources.resources
+C:\Users\MLVS\Desktop\程式試題\ACM\Hashmat the brave warrior\Hashmat the brave warrior\obj\x86\Debug\Hashmat the brave warrior.vbproj.GenerateResource.Cache
+C:\Users\MLVS\Desktop\程式試題\ACM\Hashmat the brave warrior\Hashmat the brave warrior\obj\x86\Debug\Hashmat the brave warrior.exe
+C:\Users\MLVS\Desktop\程式試題\ACM\Hashmat the brave warrior\Hashmat the brave warrior\obj\x86\Debug\Hashmat the brave warrior.xml
+C:\Users\MLVS\Desktop\程式試題\ACM\Hashmat the brave warrior\Hashmat the brave warrior\obj\x86\Debug\Hashmat the brave warrior.pdb

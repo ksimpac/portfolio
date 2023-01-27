@@ -1,0 +1,9 @@
+D:\Projects\大學生程式解題系統\循環小數\循環小數\bin\Debug\循環小數.exe
+D:\Projects\大學生程式解題系統\循環小數\循環小數\bin\Debug\循環小數.pdb
+D:\Projects\大學生程式解題系統\循環小數\循環小數\bin\Debug\循環小數.xml
+D:\Projects\大學生程式解題系統\循環小數\循環小數\obj\x86\Debug\循環小數.Form1.resources
+D:\Projects\大學生程式解題系統\循環小數\循環小數\obj\x86\Debug\循環小數.Resources.resources
+D:\Projects\大學生程式解題系統\循環小數\循環小數\obj\x86\Debug\循環小數.vbproj.GenerateResource.Cache
+D:\Projects\大學生程式解題系統\循環小數\循環小數\obj\x86\Debug\循環小數.exe
+D:\Projects\大學生程式解題系統\循環小數\循環小數\obj\x86\Debug\循環小數.xml
+D:\Projects\大學生程式解題系統\循環小數\循環小數\obj\x86\Debug\循環小數.pdb

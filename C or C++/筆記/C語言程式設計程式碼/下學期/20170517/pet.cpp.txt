@@ -1,0 +1,44 @@
+﻿#include <string>
+#include <iostream>
+#include "pet.h"
+using namespace std;
+
+pet::pet(string name, int pet_age)
+{
+	petname = name;
+	age = pet_age;
+}
+
+void pet::set_pet_name(string name)
+{
+	petname = name;
+}
+
+string pet::get_pet_name()
+{
+	return petname;
+}
+
+int pet::get_age()
+{
+	return age;
+}
+
+void pet::set_age(int pet_age)
+{
+	age = pet_age;
+}
+
+bool pet::check_age()
+{
+	if (age > 20 || age < 0)
+	{
+		cout << "狗的年齡不超過21歲或小於0歲，請重新輸入" << endl;
+		return false;
+	}
+	else
+	{
+		return true;
+	}
+}
+

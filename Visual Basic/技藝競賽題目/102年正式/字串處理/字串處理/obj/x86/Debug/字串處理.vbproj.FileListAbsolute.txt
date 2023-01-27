@@ -1,0 +1,9 @@
+D:\Projects\技藝競賽題目\102年正式\字串處理\字串處理\bin\Debug\字串處理.exe
+D:\Projects\技藝競賽題目\102年正式\字串處理\字串處理\bin\Debug\字串處理.pdb
+D:\Projects\技藝競賽題目\102年正式\字串處理\字串處理\bin\Debug\字串處理.xml
+D:\Projects\技藝競賽題目\102年正式\字串處理\字串處理\obj\x86\Debug\字串處理.Form1.resources
+D:\Projects\技藝競賽題目\102年正式\字串處理\字串處理\obj\x86\Debug\字串處理.Resources.resources
+D:\Projects\技藝競賽題目\102年正式\字串處理\字串處理\obj\x86\Debug\字串處理.vbproj.GenerateResource.Cache
+D:\Projects\技藝競賽題目\102年正式\字串處理\字串處理\obj\x86\Debug\字串處理.exe
+D:\Projects\技藝競賽題目\102年正式\字串處理\字串處理\obj\x86\Debug\字串處理.xml
+D:\Projects\技藝競賽題目\102年正式\字串處理\字串處理\obj\x86\Debug\字串處理.pdb

@@ -1,0 +1,12 @@
+C:\Users\ksimpac\Desktop\水母知識王\水母知識王\bin\Debug\水母知識王.exe
+C:\Users\ksimpac\Desktop\水母知識王\水母知識王\bin\Debug\水母知識王.pdb
+C:\Users\ksimpac\Desktop\水母知識王\水母知識王\bin\Debug\水母知識王.xml
+C:\Users\ksimpac\Desktop\水母知識王\水母知識王\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\ksimpac\Desktop\水母知識王\水母知識王\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\ksimpac\Desktop\水母知識王\水母知識王\obj\x86\Debug\水母知識王.vbproj.GenerateResource.Cache
+C:\Users\ksimpac\Desktop\水母知識王\水母知識王\obj\x86\Debug\水母知識王.exe
+C:\Users\ksimpac\Desktop\水母知識王\水母知識王\obj\x86\Debug\水母知識王.xml
+C:\Users\ksimpac\Desktop\水母知識王\水母知識王\obj\x86\Debug\水母知識王.pdb
+E:\Projects\隨興寫寫\水母知識王\水母知識王\obj\x86\Debug\水母知識王.exe
+E:\Projects\隨興寫寫\水母知識王\水母知識王\obj\x86\Debug\水母知識王.xml
+E:\Projects\隨興寫寫\水母知識王\水母知識王\obj\x86\Debug\水母知識王.pdb

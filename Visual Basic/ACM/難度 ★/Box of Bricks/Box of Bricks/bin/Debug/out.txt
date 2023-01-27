@@ -1,0 +1,6 @@
+﻿Set #0
+The minimum number of moves is 5.
+
+Set #1
+The minimum number of moves is 0.
+

@@ -1,0 +1,11 @@
+D:\Projects\讀檔練習\bin\Debug\讀檔練習.exe
+D:\Projects\讀檔練習\bin\Debug\讀檔練習.pdb
+D:\Projects\讀檔練習\bin\Debug\讀檔練習.xml
+D:\Projects\讀檔練習\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\讀檔練習\obj\x86\Debug\讀檔練習.Form1.resources
+D:\Projects\讀檔練習\obj\x86\Debug\讀檔練習.Resources.resources
+D:\Projects\讀檔練習\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\讀檔練習\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\讀檔練習\obj\x86\Debug\讀檔練習.exe
+D:\Projects\讀檔練習\obj\x86\Debug\讀檔練習.xml
+D:\Projects\讀檔練習\obj\x86\Debug\讀檔練習.pdb

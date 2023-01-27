@@ -1,0 +1,95 @@
+﻿#include <stdio.h>
+#include <stdlib.h>
+
+struct student
+{
+	char ID[20]; //學號
+	char name[100]; //姓名
+	char gender; //性別
+	int age; //年齡
+};
+
+void write(struct student record[], int max); //寫入檔案
+void search(struct student record[], int max); //讀取並查詢資料
+
+int main(void)
+{
+
+	struct student record[5];
+	int max = 5;
+	char a;
+
+	for (int i = 0; i < max; i++) //輸入資料
+	{
+		printf("輸入第一位學生資料\n");
+		printf("第一位學生學號:");
+		scanf_s("%s", record[i].ID, 20);
+		printf("第一位學生姓名:");
+		scanf_s("%s", record[i].name, 100);
+		scanf_s("%c", &a);
+		printf("第一位學生性別:");
+		scanf_s("%c", &record[i].gender,1);
+		printf("第一位學生年齡:");
+		scanf_s("%d", &record[i].age);
+	}
+
+	write(record, max); 
+	search(record, max);
+
+	system("PAUSE");
+	return 0;
+}
+
+void write(struct student record[], int max) //寫入至循序檔
+{
+	FILE *fPtr; //宣告檔案指標
+	fopen_s(&fPtr,"out.txt", "w"); //將指標指向檔案
+	//等同於:fPtr = fopen("out.txt","w");
+
+	for (int i = 0; i < max; i++)
+	{
+		fprintf(fPtr, "%s %s %c %d\n", record[i].ID, record[i].name, record[i].gender, record[i].age); //寫入檔案
+	}
+	
+	fclose(fPtr);//關閉檔案
+}
+
+void search(struct student record[], int max)
+{
+	FILE *fPtr = NULL; //宣告檔案指標
+	fopen_s(&fPtr, "out.txt", "r"); //將指標指向檔案
+        //等同於:fPtr = fopen("out.txt","r");
+
+	char ID[20];
+	char name[100];
+	char gender = ' ';
+	int age = 0;
+	int search_age = 0; //要尋找的年齡
+
+	printf("輸入要尋找的年齡:");
+	scanf_s("%d",&search_age);
+	printf("\n\n");
+
+	for (int i = 0; i < max; i++) //逐筆讀取資料
+	{
+
+		fscanf_s(fPtr, "%s ", ID, 20);
+		fscanf_s(fPtr, "%s ", name, 100);
+		fscanf_s(fPtr, "%c ", &gender, 1);
+		fscanf_s(fPtr, "%d\n", &age);
+
+		if (search_age == age) //如果符合search_age的資料就印出
+		{
+			printf("符合年齡的學生資料:\n");
+			printf("學生學號:%s\n", ID);
+			printf("學生姓名:%s\n", name);
+			printf("學生性別:%c\n", gender);
+			printf("學生年齡:%d\n", age);
+		}
+
+		printf("\n");
+
+	}
+
+	fclose(fPtr); //關閉檔案
+}

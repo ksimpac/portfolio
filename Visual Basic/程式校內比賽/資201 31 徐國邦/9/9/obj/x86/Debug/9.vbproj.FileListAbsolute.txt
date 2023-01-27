@@ -1,0 +1,18 @@
+C:\Users\User\AppData\Local\Temporary Projects\9\bin\Debug\9.exe
+C:\Users\User\AppData\Local\Temporary Projects\9\bin\Debug\9.pdb
+C:\Users\User\AppData\Local\Temporary Projects\9\bin\Debug\9.xml
+C:\Users\User\AppData\Local\Temporary Projects\9\obj\x86\Debug\_9.Form1.resources
+C:\Users\User\AppData\Local\Temporary Projects\9\obj\x86\Debug\_9.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\9\obj\x86\Debug\9.vbproj.GenerateResource.Cache
+C:\Users\User\AppData\Local\Temporary Projects\9\obj\x86\Debug\9.exe
+C:\Users\User\AppData\Local\Temporary Projects\9\obj\x86\Debug\9.xml
+C:\Users\User\AppData\Local\Temporary Projects\9\obj\x86\Debug\9.pdb
+E:\Projects\程式校內比賽\資201 31 徐國邦\9\9\obj\x86\Debug\9.exe
+E:\Projects\程式校內比賽\資201 31 徐國邦\9\9\obj\x86\Debug\9.xml
+E:\Projects\程式校內比賽\資201 31 徐國邦\9\9\obj\x86\Debug\9.pdb
+E:\Projects\程式校內比賽\資201 31 徐國邦\9\9\bin\Debug\9.exe
+E:\Projects\程式校內比賽\資201 31 徐國邦\9\9\bin\Debug\9.pdb
+E:\Projects\程式校內比賽\資201 31 徐國邦\9\9\bin\Debug\9.xml
+E:\Projects\程式校內比賽\資201 31 徐國邦\9\9\obj\x86\Debug\_9.Form1.resources
+E:\Projects\程式校內比賽\資201 31 徐國邦\9\9\obj\x86\Debug\_9.Resources.resources
+E:\Projects\程式校內比賽\資201 31 徐國邦\9\9\obj\x86\Debug\9.vbproj.GenerateResource.Cache

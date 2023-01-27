@@ -1,0 +1,9 @@
+D:\Projects\大學生程式解題系統\因數分解\因數分解\bin\Debug\因數分解.exe
+D:\Projects\大學生程式解題系統\因數分解\因數分解\bin\Debug\因數分解.pdb
+D:\Projects\大學生程式解題系統\因數分解\因數分解\bin\Debug\因數分解.xml
+D:\Projects\大學生程式解題系統\因數分解\因數分解\obj\x86\Debug\因數分解.Form1.resources
+D:\Projects\大學生程式解題系統\因數分解\因數分解\obj\x86\Debug\因數分解.Resources.resources
+D:\Projects\大學生程式解題系統\因數分解\因數分解\obj\x86\Debug\因數分解.vbproj.GenerateResource.Cache
+D:\Projects\大學生程式解題系統\因數分解\因數分解\obj\x86\Debug\因數分解.exe
+D:\Projects\大學生程式解題系統\因數分解\因數分解\obj\x86\Debug\因數分解.xml
+D:\Projects\大學生程式解題系統\因數分解\因數分解\obj\x86\Debug\因數分解.pdb

@@ -1,0 +1,9 @@
+C:\Users\MLVS\Desktop\程式試題\ACM\The 3n + 1 problem\The 3n + 1 problem\bin\Debug\The 3n + 1 problem.exe
+C:\Users\MLVS\Desktop\程式試題\ACM\The 3n + 1 problem\The 3n + 1 problem\bin\Debug\The 3n + 1 problem.pdb
+C:\Users\MLVS\Desktop\程式試題\ACM\The 3n + 1 problem\The 3n + 1 problem\bin\Debug\The 3n + 1 problem.xml
+C:\Users\MLVS\Desktop\程式試題\ACM\The 3n + 1 problem\The 3n + 1 problem\obj\x86\Debug\The_3n___1_problem.Form1.resources
+C:\Users\MLVS\Desktop\程式試題\ACM\The 3n + 1 problem\The 3n + 1 problem\obj\x86\Debug\The_3n___1_problem.Resources.resources
+C:\Users\MLVS\Desktop\程式試題\ACM\The 3n + 1 problem\The 3n + 1 problem\obj\x86\Debug\The 3n + 1 problem.vbproj.GenerateResource.Cache
+C:\Users\MLVS\Desktop\程式試題\ACM\The 3n + 1 problem\The 3n + 1 problem\obj\x86\Debug\The 3n + 1 problem.exe
+C:\Users\MLVS\Desktop\程式試題\ACM\The 3n + 1 problem\The 3n + 1 problem\obj\x86\Debug\The 3n + 1 problem.xml
+C:\Users\MLVS\Desktop\程式試題\ACM\The 3n + 1 problem\The 3n + 1 problem\obj\x86\Debug\The 3n + 1 problem.pdb

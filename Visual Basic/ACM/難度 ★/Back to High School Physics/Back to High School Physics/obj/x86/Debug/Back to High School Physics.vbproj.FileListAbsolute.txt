@@ -1,0 +1,9 @@
+C:\Users\MLVS\Desktop\程式試題\ACM\Back to High School Physics\Back to High School Physics\bin\Debug\Back to High School Physics.exe
+C:\Users\MLVS\Desktop\程式試題\ACM\Back to High School Physics\Back to High School Physics\bin\Debug\Back to High School Physics.pdb
+C:\Users\MLVS\Desktop\程式試題\ACM\Back to High School Physics\Back to High School Physics\bin\Debug\Back to High School Physics.xml
+C:\Users\MLVS\Desktop\程式試題\ACM\Back to High School Physics\Back to High School Physics\obj\x86\Debug\Back_to_High_School_Physics.Form1.resources
+C:\Users\MLVS\Desktop\程式試題\ACM\Back to High School Physics\Back to High School Physics\obj\x86\Debug\Back_to_High_School_Physics.Resources.resources
+C:\Users\MLVS\Desktop\程式試題\ACM\Back to High School Physics\Back to High School Physics\obj\x86\Debug\Back to High School Physics.vbproj.GenerateResource.Cache
+C:\Users\MLVS\Desktop\程式試題\ACM\Back to High School Physics\Back to High School Physics\obj\x86\Debug\Back to High School Physics.exe
+C:\Users\MLVS\Desktop\程式試題\ACM\Back to High School Physics\Back to High School Physics\obj\x86\Debug\Back to High School Physics.xml
+C:\Users\MLVS\Desktop\程式試題\ACM\Back to High School Physics\Back to High School Physics\obj\x86\Debug\Back to High School Physics.pdb

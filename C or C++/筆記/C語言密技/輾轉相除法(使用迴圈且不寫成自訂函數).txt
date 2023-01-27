@@ -1,0 +1,59 @@
+﻿#include <stdio.h>
+#include <stdlib.h>
+
+int main(void)
+{
+	int a = 12, b = 24,c = 32,GCD = 0;
+
+	//輾轉相除法求最大公因數
+	while (a != 0 && b != 0) 
+	{
+		if (a >= b)
+		{
+			a = a % b;
+		}
+		else if (b > a)
+		{
+			b = b % a;
+		}
+
+	}
+
+	//取非0值
+	if (a >= b)
+	{
+		GCD = a;
+	}
+	else
+	{
+		GCD = b;
+	}
+
+	//輾轉相除法求最大公因數
+	while (GCD != 0 && c != 0) 
+	{
+		if (GCD >= c)
+		{
+			GCD = GCD % c;
+		}
+		else if (c > GCD)
+		{
+			c = c % GCD;
+		}
+
+	}
+
+	//再取非0值印出來結果
+	if (GCD >= c)
+	{
+		printf("12,24,32三數的最大公因數為%d\n",GCD);
+	}
+	else
+	{
+		printf("12,24,32三數的最大公因數為%d\n", c);
+	}
+
+
+	system("PAUSE");
+	return 0;
+}

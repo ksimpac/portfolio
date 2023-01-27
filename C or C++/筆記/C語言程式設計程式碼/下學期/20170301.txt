@@ -1,0 +1,64 @@
+﻿#include <stdio.h>
+#include <stdlib.h>
+
+struct employ1
+{
+	char firstname[20];
+	char lastname[20];
+	unsigned int age;
+	char gender;
+	double salary;
+};
+
+void print_data(struct employ1 employee[], int max); //印出資料
+
+int main(void)
+{
+	struct employ1 employee[2];
+
+	/*
+	 結構陣列參考資料:http://jackds.blogspot.tw/2008/10/cc.html
+	*/
+
+	char a;
+
+	for (int i = 0; i < 2; i++) //輸入資料
+	{
+		printf("請輸入第%d位的員工資料\n", i + 1);
+		printf("第%d位員工名子:", i + 1);
+		scanf_s("%s", employee[i].firstname,20);
+		printf("第%d位員工姓氏:", i + 1);
+		scanf_s("%s", employee[i].lastname, 20);
+		printf("第%d位員工年齡:", i + 1);
+		scanf_s("%d", &employee[i].age);
+		scanf_s("%c", &a); 
+
+		/*
+		   a用來吸收Enter
+		   參考資料:https://sites.google.com/site/cultbase/c-yu-yan-bi-ji/1-scanf-bei-tiao-guo-le
+		*/
+
+		printf("第%d位員工性別:", i + 1);
+		scanf_s("%c", &employee[i].gender, 1);
+		printf("第%d位員工薪資:", i + 1);
+		scanf_s("%lf", &employee[i].salary);
+	}
+
+	print_data(employee, 2);
+	system("PAUSE");
+	return 0;
+}
+
+void print_data(struct employ1 employee[], int max) //印出資料
+{
+	for (int i = 0; i < max; i++)
+	{
+		printf("第%d位的員工資料\n", i + 1);
+		printf("第%d位員工名子:%s\n", i + 1,employee[i].firstname);
+		printf("第%d位員工姓氏:%s\n", i + 1,employee[i].lastname);
+		printf("第%d位員工年齡:%d\n", i + 1,employee[i].age);
+		printf("第%d位員工性別:%c\n", i + 1,employee[i].gender);
+		printf("第%d位員工薪資:%lf\n", i + 1,employee[i].salary);
+	}
+}
+

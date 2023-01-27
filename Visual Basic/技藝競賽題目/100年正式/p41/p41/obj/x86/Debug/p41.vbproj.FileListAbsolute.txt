@@ -1,0 +1,18 @@
+C:\Users\User\AppData\Local\Temporary Projects\p41\bin\Debug\p41.exe
+C:\Users\User\AppData\Local\Temporary Projects\p41\bin\Debug\p41.pdb
+C:\Users\User\AppData\Local\Temporary Projects\p41\bin\Debug\p41.xml
+C:\Users\User\AppData\Local\Temporary Projects\p41\obj\x86\Debug\p41.Form1.resources
+C:\Users\User\AppData\Local\Temporary Projects\p41\obj\x86\Debug\p41.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\p41\obj\x86\Debug\p41.vbproj.GenerateResource.Cache
+C:\Users\User\AppData\Local\Temporary Projects\p41\obj\x86\Debug\p41.exe
+C:\Users\User\AppData\Local\Temporary Projects\p41\obj\x86\Debug\p41.xml
+C:\Users\User\AppData\Local\Temporary Projects\p41\obj\x86\Debug\p41.pdb
+C:\Users\User\Desktop\p41\p41\obj\x86\Debug\p41.exe
+C:\Users\User\Desktop\p41\p41\obj\x86\Debug\p41.xml
+C:\Users\User\Desktop\p41\p41\obj\x86\Debug\p41.pdb
+C:\Users\User\Desktop\p41\p41\bin\Debug\p41.exe
+C:\Users\User\Desktop\p41\p41\bin\Debug\p41.pdb
+C:\Users\User\Desktop\p41\p41\bin\Debug\p41.xml
+C:\Users\User\Desktop\p41\p41\obj\x86\Debug\p41.Form1.resources
+C:\Users\User\Desktop\p41\p41\obj\x86\Debug\p41.Resources.resources
+C:\Users\User\Desktop\p41\p41\obj\x86\Debug\p41.vbproj.GenerateResource.Cache

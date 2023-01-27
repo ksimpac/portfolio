@@ -1,0 +1,59 @@
+﻿#include <stdio.h>
+#include <stdlib.h>
+
+void convert_to_binary(int);
+
+int main(void)
+{
+	int a = 0, b = 0;
+
+	scanf_s("%d", &a);
+	scanf_s("%d", &b);
+
+        /*
+           有需要知道原理的請點開下面網站
+           https://drive.google.com/file/d/0ByAvpptIcHnIeldrd3VLbGptSW8/view?usp=sharing
+        */
+
+	printf("a跟b做AND結果轉成2進位為:");
+	convert_to_binary(a & b);
+	printf("a跟b做OR結果轉成2進位為:");
+	convert_to_binary(a | b);
+	printf("a跟b做XOR結果轉成2進位為:");
+	convert_to_binary(a ^ b);
+
+	system("PAUSE");
+	return 0;
+}
+
+void convert_to_binary(int number) //轉成二進位函數(副程式)
+{
+
+        /*
+           有需要知道原理的請點開下面網站
+           https://drive.google.com/file/d/0ByAvpptIcHnISFphNFM0MldYZUU/view?usp=sharing
+        */
+
+	int mask = 1 << 31;
+
+	for (int i = 1; i <= 32; i++)
+	{
+		if (number & mask != 0)
+		{
+			printf("%c", '1');
+		}
+		else
+		{
+			printf("%c", '0');
+		}
+
+		number <<= 1; //number往左移一位元
+
+		if (i % 8 == 0) 
+		{
+			printf(" "); //做格式而已
+		}
+	}
+
+	printf("\n"); //做格式而已
+}

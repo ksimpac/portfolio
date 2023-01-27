@@ -1,0 +1,55 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<script src="https://cdn.bootcss.com/progressbar.js/1.0.1/progressbar.js"></script>
+		<meta charset="utf-8">
+		<title>ProgressBar.js</title>
+		<style>
+			#container {
+			  margin: 20px;
+			  width: 100px;
+			  height: 100px;
+			  position: relative;
+			}
+		</style>
+	</head>
+	<body>
+		<div id="container"></div>
+		<script>
+		  let container = document.querySelector('#container')
+
+		  var bar = new ProgressBar.Circle(container, {
+			color: 'salmon',
+			strokeWidth: 50,  // 正好是从圆心开始画起，>50会越过圆心，<50画出的是圆环
+			trailWidth: 50,  // 也设置为50，就是一个未填充的圆形，而不是圆环。要么设置为0
+			easing: 'easeInOut',
+			duration: 5000,
+			text: {
+			  style: {
+				color: 'yellow',
+				display: 'inline-block',
+				position: 'absolute',
+				top: '50%',
+				left: '50%',
+				transform: 'translate(-50%,-50%)'
+			  },
+			  autoStyleContainer: false
+			},
+			// fill: 'salmon',   // 圆形内容区域填充色，当需要画圆环时，效果应该最好。
+			from: { color: '#aaa'},
+			to: { color: '#333'},
+			step: function(state, circle) {
+			  circle.path.setAttribute('stroke', state.color);
+			  
+			  var value = Math.round(circle.value() * 100);
+			  circle.setText(value+'%');
+			}
+		  });
+		  bar.text.style.fontFamily = '"Raleway", Helvetica, sans-serif';
+		  bar.text.style.fontSize = '2rem';
+
+		  bar.animate(0.5);
+
+		</script>
+	</body>
+</html>

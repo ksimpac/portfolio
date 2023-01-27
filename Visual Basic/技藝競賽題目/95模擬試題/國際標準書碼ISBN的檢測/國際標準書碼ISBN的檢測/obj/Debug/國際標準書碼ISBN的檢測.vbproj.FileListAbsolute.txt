@@ -1,0 +1,10 @@
+D:\Projects\技藝競賽題目\95模擬試題\國際標準書碼ISBN的檢測\國際標準書碼ISBN的檢測\bin\Debug\國際標準書碼ISBN的檢測.exe.config
+D:\Projects\技藝競賽題目\95模擬試題\國際標準書碼ISBN的檢測\國際標準書碼ISBN的檢測\bin\Debug\國際標準書碼ISBN的檢測.exe
+D:\Projects\技藝競賽題目\95模擬試題\國際標準書碼ISBN的檢測\國際標準書碼ISBN的檢測\bin\Debug\國際標準書碼ISBN的檢測.pdb
+D:\Projects\技藝競賽題目\95模擬試題\國際標準書碼ISBN的檢測\國際標準書碼ISBN的檢測\bin\Debug\國際標準書碼ISBN的檢測.xml
+D:\Projects\技藝競賽題目\95模擬試題\國際標準書碼ISBN的檢測\國際標準書碼ISBN的檢測\obj\Debug\國際標準書碼ISBN的檢測.Form1.resources
+D:\Projects\技藝競賽題目\95模擬試題\國際標準書碼ISBN的檢測\國際標準書碼ISBN的檢測\obj\Debug\國際標準書碼ISBN的檢測.Resources.resources
+D:\Projects\技藝競賽題目\95模擬試題\國際標準書碼ISBN的檢測\國際標準書碼ISBN的檢測\obj\Debug\國際標準書碼ISBN的檢測.vbproj.GenerateResource.Cache
+D:\Projects\技藝競賽題目\95模擬試題\國際標準書碼ISBN的檢測\國際標準書碼ISBN的檢測\obj\Debug\國際標準書碼ISBN的檢測.exe
+D:\Projects\技藝競賽題目\95模擬試題\國際標準書碼ISBN的檢測\國際標準書碼ISBN的檢測\obj\Debug\國際標準書碼ISBN的檢測.xml
+D:\Projects\技藝競賽題目\95模擬試題\國際標準書碼ISBN的檢測\國際標準書碼ISBN的檢測\obj\Debug\國際標準書碼ISBN的檢測.pdb

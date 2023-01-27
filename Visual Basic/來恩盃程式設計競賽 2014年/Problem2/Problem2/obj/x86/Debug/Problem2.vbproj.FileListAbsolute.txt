@@ -1,0 +1,9 @@
+E:\Projects\來恩盃程式設計競賽 2014年\Problem2\Problem2\bin\Debug\Problem2.exe
+E:\Projects\來恩盃程式設計競賽 2014年\Problem2\Problem2\bin\Debug\Problem2.pdb
+E:\Projects\來恩盃程式設計競賽 2014年\Problem2\Problem2\bin\Debug\Problem2.xml
+E:\Projects\來恩盃程式設計競賽 2014年\Problem2\Problem2\obj\x86\Debug\Problem2.Form1.resources
+E:\Projects\來恩盃程式設計競賽 2014年\Problem2\Problem2\obj\x86\Debug\Problem2.Resources.resources
+E:\Projects\來恩盃程式設計競賽 2014年\Problem2\Problem2\obj\x86\Debug\Problem2.vbproj.GenerateResource.Cache
+E:\Projects\來恩盃程式設計競賽 2014年\Problem2\Problem2\obj\x86\Debug\Problem2.exe
+E:\Projects\來恩盃程式設計競賽 2014年\Problem2\Problem2\obj\x86\Debug\Problem2.xml
+E:\Projects\來恩盃程式設計競賽 2014年\Problem2\Problem2\obj\x86\Debug\Problem2.pdb

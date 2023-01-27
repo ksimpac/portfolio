@@ -1,0 +1,9 @@
+E:\Projects\技藝競賽題目\100年正式\p42\p42\bin\Debug\p42.exe
+E:\Projects\技藝競賽題目\100年正式\p42\p42\bin\Debug\p42.pdb
+E:\Projects\技藝競賽題目\100年正式\p42\p42\bin\Debug\p42.xml
+E:\Projects\技藝競賽題目\100年正式\p42\p42\obj\x86\Debug\p42.Form1.resources
+E:\Projects\技藝競賽題目\100年正式\p42\p42\obj\x86\Debug\p42.Resources.resources
+E:\Projects\技藝競賽題目\100年正式\p42\p42\obj\x86\Debug\p42.vbproj.GenerateResource.Cache
+E:\Projects\技藝競賽題目\100年正式\p42\p42\obj\x86\Debug\p42.exe
+E:\Projects\技藝競賽題目\100年正式\p42\p42\obj\x86\Debug\p42.xml
+E:\Projects\技藝競賽題目\100年正式\p42\p42\obj\x86\Debug\p42.pdb

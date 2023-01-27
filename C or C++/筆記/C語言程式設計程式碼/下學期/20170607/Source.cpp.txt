@@ -1,0 +1,21 @@
+#include "cube_3D.h"
+#include "square_2D.h"
+#include <iostream>
+
+using namespace std;
+
+int main(void)
+{
+	cube_3D cube;
+	square_2D square;
+
+	cout << "請輸入長度:";
+	cin >> cube.length;
+
+	square.length = cube.length;
+
+	square.comput_area();
+	cube.comput_volume();
+	cube.compute_surface();
+	system("PAUSE");
+}

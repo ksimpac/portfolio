@@ -1,0 +1,9 @@
+E:\Projects\基隆商工題目\第二十一屆\英文字的編碼\bin\Debug\英文字的編碼.exe
+E:\Projects\基隆商工題目\第二十一屆\英文字的編碼\bin\Debug\英文字的編碼.pdb
+E:\Projects\基隆商工題目\第二十一屆\英文字的編碼\bin\Debug\英文字的編碼.xml
+E:\Projects\基隆商工題目\第二十一屆\英文字的編碼\obj\x86\Debug\英文字的編碼.Form1.resources
+E:\Projects\基隆商工題目\第二十一屆\英文字的編碼\obj\x86\Debug\英文字的編碼.Resources.resources
+E:\Projects\基隆商工題目\第二十一屆\英文字的編碼\obj\x86\Debug\英文字的編碼.vbproj.GenerateResource.Cache
+E:\Projects\基隆商工題目\第二十一屆\英文字的編碼\obj\x86\Debug\英文字的編碼.exe
+E:\Projects\基隆商工題目\第二十一屆\英文字的編碼\obj\x86\Debug\英文字的編碼.xml
+E:\Projects\基隆商工題目\第二十一屆\英文字的編碼\obj\x86\Debug\英文字的編碼.pdb

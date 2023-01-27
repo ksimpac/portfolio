@@ -1,0 +1,10 @@
+D:\Projects\技藝競賽題目\103年模擬試題\摩斯電碼\摩斯電碼\bin\Debug\摩斯電碼.exe.config
+D:\Projects\技藝競賽題目\103年模擬試題\摩斯電碼\摩斯電碼\bin\Debug\摩斯電碼.exe
+D:\Projects\技藝競賽題目\103年模擬試題\摩斯電碼\摩斯電碼\bin\Debug\摩斯電碼.pdb
+D:\Projects\技藝競賽題目\103年模擬試題\摩斯電碼\摩斯電碼\bin\Debug\摩斯電碼.xml
+D:\Projects\技藝競賽題目\103年模擬試題\摩斯電碼\摩斯電碼\obj\Debug\摩斯電碼.Form1.resources
+D:\Projects\技藝競賽題目\103年模擬試題\摩斯電碼\摩斯電碼\obj\Debug\摩斯電碼.Resources.resources
+D:\Projects\技藝競賽題目\103年模擬試題\摩斯電碼\摩斯電碼\obj\Debug\摩斯電碼.vbproj.GenerateResource.Cache
+D:\Projects\技藝競賽題目\103年模擬試題\摩斯電碼\摩斯電碼\obj\Debug\摩斯電碼.exe
+D:\Projects\技藝競賽題目\103年模擬試題\摩斯電碼\摩斯電碼\obj\Debug\摩斯電碼.xml
+D:\Projects\技藝競賽題目\103年模擬試題\摩斯電碼\摩斯電碼\obj\Debug\摩斯電碼.pdb

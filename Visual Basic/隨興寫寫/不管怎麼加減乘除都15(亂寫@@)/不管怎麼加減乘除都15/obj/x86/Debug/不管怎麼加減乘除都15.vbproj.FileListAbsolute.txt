@@ -1,0 +1,12 @@
+D:\Projects\不管怎麼加減乘除都15\不管怎麼加減乘除都15\bin\Debug\不管怎麼加減乘除都15.exe
+D:\Projects\不管怎麼加減乘除都15\不管怎麼加減乘除都15\bin\Debug\不管怎麼加減乘除都15.pdb
+D:\Projects\不管怎麼加減乘除都15\不管怎麼加減乘除都15\bin\Debug\不管怎麼加減乘除都15.xml
+D:\Projects\不管怎麼加減乘除都15\不管怎麼加減乘除都15\obj\x86\Debug\不管怎麼加減乘除都15.Form1.resources
+D:\Projects\不管怎麼加減乘除都15\不管怎麼加減乘除都15\obj\x86\Debug\不管怎麼加減乘除都15.Resources.resources
+D:\Projects\不管怎麼加減乘除都15\不管怎麼加減乘除都15\obj\x86\Debug\不管怎麼加減乘除都15.vbproj.GenerateResource.Cache
+D:\Projects\不管怎麼加減乘除都15\不管怎麼加減乘除都15\obj\x86\Debug\不管怎麼加減乘除都15.exe
+D:\Projects\不管怎麼加減乘除都15\不管怎麼加減乘除都15\obj\x86\Debug\不管怎麼加減乘除都15.xml
+D:\Projects\不管怎麼加減乘除都15\不管怎麼加減乘除都15\obj\x86\Debug\不管怎麼加減乘除都15.pdb
+D:\Projects\隨興寫寫\VB\不管怎麼加減乘除都15(亂寫@@)\不管怎麼加減乘除都15\obj\x86\Debug\不管怎麼加減乘除都15.exe
+D:\Projects\隨興寫寫\VB\不管怎麼加減乘除都15(亂寫@@)\不管怎麼加減乘除都15\obj\x86\Debug\不管怎麼加減乘除都15.xml
+D:\Projects\隨興寫寫\VB\不管怎麼加減乘除都15(亂寫@@)\不管怎麼加減乘除都15\obj\x86\Debug\不管怎麼加減乘除都15.pdb

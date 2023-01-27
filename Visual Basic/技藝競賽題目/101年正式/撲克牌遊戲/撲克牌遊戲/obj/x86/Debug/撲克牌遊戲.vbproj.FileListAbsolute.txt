@@ -1,0 +1,18 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\撲克牌遊戲\bin\Debug\撲克牌遊戲.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\撲克牌遊戲\bin\Debug\撲克牌遊戲.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\撲克牌遊戲\bin\Debug\撲克牌遊戲.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\撲克牌遊戲\obj\x86\Debug\撲克牌遊戲.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\撲克牌遊戲\obj\x86\Debug\撲克牌遊戲.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\撲克牌遊戲\obj\x86\Debug\撲克牌遊戲.vbproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\撲克牌遊戲\obj\x86\Debug\撲克牌遊戲.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\撲克牌遊戲\obj\x86\Debug\撲克牌遊戲.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\撲克牌遊戲\obj\x86\Debug\撲克牌遊戲.pdb
+D:\Projects\技藝競賽題目\101年正式\撲克牌遊戲\撲克牌遊戲\obj\x86\Debug\撲克牌遊戲.exe
+D:\Projects\技藝競賽題目\101年正式\撲克牌遊戲\撲克牌遊戲\obj\x86\Debug\撲克牌遊戲.xml
+D:\Projects\技藝競賽題目\101年正式\撲克牌遊戲\撲克牌遊戲\obj\x86\Debug\撲克牌遊戲.pdb
+D:\Projects\技藝競賽題目\101年正式\撲克牌遊戲\撲克牌遊戲\bin\Debug\撲克牌遊戲.exe
+D:\Projects\技藝競賽題目\101年正式\撲克牌遊戲\撲克牌遊戲\bin\Debug\撲克牌遊戲.pdb
+D:\Projects\技藝競賽題目\101年正式\撲克牌遊戲\撲克牌遊戲\bin\Debug\撲克牌遊戲.xml
+D:\Projects\技藝競賽題目\101年正式\撲克牌遊戲\撲克牌遊戲\obj\x86\Debug\撲克牌遊戲.Form1.resources
+D:\Projects\技藝競賽題目\101年正式\撲克牌遊戲\撲克牌遊戲\obj\x86\Debug\撲克牌遊戲.Resources.resources
+D:\Projects\技藝競賽題目\101年正式\撲克牌遊戲\撲克牌遊戲\obj\x86\Debug\撲克牌遊戲.vbproj.GenerateResource.Cache

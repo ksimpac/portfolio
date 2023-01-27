@@ -1,0 +1,79 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>My First jQuery Website</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="themes/myTheme.css" />
+		<link rel="stylesheet" href="themes/jquery.mobile.icons.min.css" />
+		<link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css" />
+		<script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+		<script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+	</head>
+	<body>
+		<div data-role = "page" id = "page1" data-theme = "d">
+		
+			<div data-role = "header">
+				<h1>My first page</h1>
+				
+				<div data-role = "navbar">
+					<ul>
+						<li><a href = "#page1" data-icon = "grid">Home</a></li>
+						<li><a href = "#page2" data-icon = "grid">Contact</a></li>
+					</ul>
+				</div>
+			</div>
+			
+			<div data-role = "main" class = "ui-content">
+
+				<h1>Hello World</h1>
+				<p>Welcome to my first page</p>
+				
+				<div data-role = "collapsible">
+					<h1>Past work</h1>
+					<p>Look at my past work....</p>
+				</div>
+				
+				<div data-role = "collapsible">
+					<h1>Education</h1>
+					<p>NUTC</p>
+				</div>
+				<!-- <a href = "#page2">Page 2</a> -->
+	
+			</div>
+			
+			<div data-role = "footer">
+				&copy; ksimpac 2019
+			</div>
+			
+		</div>
+		
+		<div data-role = "page" id = "page2" data-theme = "e">
+		
+			<div data-role = "header">
+				<h1>My second page</h1>
+				<div data-role = "navbar">
+						<ul>
+							<li><a href = "#page1" data-icon = "grid">Home</a></li>
+							<li><a href = "#page2" data-icon = "grid">Contact</a></li>
+						</ul>
+				</div>
+			</div>
+			
+			<div data-role = "main" class = "ui-content">
+				<label for = "essay">Tell us what you think</label>
+				<textarea name = "essay" id = "essay" placeholder = "Tell us how great we are!"></textarea>
+				<input type = "range" name = "rate" id = "rate" min = "0" max = "10">
+				<input type = "submit" name = "go" id = "go" value = "Rate my app!">
+				
+				<!--<h1>Hello World</h1>
+				<p>Welcome to my second page</p>
+				 <a href = "#page1">Return Page 1</a> -->
+			</div>
+			
+			<div data-role = "footer">
+				&copy; ksimpac 2019
+			</div>
+			
+		</div>
+	</body>
+</html>

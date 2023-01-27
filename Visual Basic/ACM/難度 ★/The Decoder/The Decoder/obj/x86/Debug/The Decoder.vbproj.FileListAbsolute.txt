@@ -1,0 +1,9 @@
+C:\Users\MLVS\Desktop\程式試題\ACM\The Decoder\The Decoder\bin\Debug\The Decoder.exe
+C:\Users\MLVS\Desktop\程式試題\ACM\The Decoder\The Decoder\bin\Debug\The Decoder.pdb
+C:\Users\MLVS\Desktop\程式試題\ACM\The Decoder\The Decoder\bin\Debug\The Decoder.xml
+C:\Users\MLVS\Desktop\程式試題\ACM\The Decoder\The Decoder\obj\x86\Debug\The_Decoder.Form1.resources
+C:\Users\MLVS\Desktop\程式試題\ACM\The Decoder\The Decoder\obj\x86\Debug\The_Decoder.Resources.resources
+C:\Users\MLVS\Desktop\程式試題\ACM\The Decoder\The Decoder\obj\x86\Debug\The Decoder.vbproj.GenerateResource.Cache
+C:\Users\MLVS\Desktop\程式試題\ACM\The Decoder\The Decoder\obj\x86\Debug\The Decoder.exe
+C:\Users\MLVS\Desktop\程式試題\ACM\The Decoder\The Decoder\obj\x86\Debug\The Decoder.xml
+C:\Users\MLVS\Desktop\程式試題\ACM\The Decoder\The Decoder\obj\x86\Debug\The Decoder.pdb

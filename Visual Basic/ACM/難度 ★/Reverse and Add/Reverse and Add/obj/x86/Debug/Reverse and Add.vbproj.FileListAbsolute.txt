@@ -1,0 +1,9 @@
+C:\Users\MLVS\Desktop\程式試題\ACM\Reverse and Add\Reverse and Add\bin\Debug\Reverse and Add.exe
+C:\Users\MLVS\Desktop\程式試題\ACM\Reverse and Add\Reverse and Add\bin\Debug\Reverse and Add.pdb
+C:\Users\MLVS\Desktop\程式試題\ACM\Reverse and Add\Reverse and Add\bin\Debug\Reverse and Add.xml
+C:\Users\MLVS\Desktop\程式試題\ACM\Reverse and Add\Reverse and Add\obj\x86\Debug\Reverse_and_Add.Form1.resources
+C:\Users\MLVS\Desktop\程式試題\ACM\Reverse and Add\Reverse and Add\obj\x86\Debug\Reverse_and_Add.Resources.resources
+C:\Users\MLVS\Desktop\程式試題\ACM\Reverse and Add\Reverse and Add\obj\x86\Debug\Reverse and Add.vbproj.GenerateResource.Cache
+C:\Users\MLVS\Desktop\程式試題\ACM\Reverse and Add\Reverse and Add\obj\x86\Debug\Reverse and Add.exe
+C:\Users\MLVS\Desktop\程式試題\ACM\Reverse and Add\Reverse and Add\obj\x86\Debug\Reverse and Add.xml
+C:\Users\MLVS\Desktop\程式試題\ACM\Reverse and Add\Reverse and Add\obj\x86\Debug\Reverse and Add.pdb

@@ -1,0 +1,12 @@
+Private Function GCD(ByVal num1 As Integer, ByVal num2 As Integer) As Integer
+        Dim min, max, maxModMin As Integer
+        min = Math.Min(num1, num2)
+        max = Math.Max(num1, num2)
+        maxModMin = max Mod min
+        Return If(maxModMin > 0, gcd(min, maxModMin), min)
+    End Function
+
+    Private Function LCM(ByVal num1 As Integer, ByVal num2 As Integer) As Integer
+        Return num1 * num2 / GCD(num1, num2) = ShowLCM.Text
+    End Function
+End Class

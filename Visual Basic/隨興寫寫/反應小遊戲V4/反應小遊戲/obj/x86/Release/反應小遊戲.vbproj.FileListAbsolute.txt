@@ -1,0 +1,12 @@
+C:\Users\ksimpac\Desktop\反應小遊戲V4\反應小遊戲\bin\Release\反應小遊戲.exe
+C:\Users\ksimpac\Desktop\反應小遊戲V4\反應小遊戲\bin\Release\反應小遊戲.pdb
+C:\Users\ksimpac\Desktop\反應小遊戲V4\反應小遊戲\bin\Release\反應小遊戲.xml
+C:\Users\ksimpac\Desktop\反應小遊戲V4\反應小遊戲\obj\x86\Release\反應小遊戲.Form1.resources
+C:\Users\ksimpac\Desktop\反應小遊戲V4\反應小遊戲\obj\x86\Release\反應小遊戲.Resources.resources
+C:\Users\ksimpac\Desktop\反應小遊戲V4\反應小遊戲\obj\x86\Release\反應小遊戲.vbproj.GenerateResource.Cache
+C:\Users\ksimpac\Desktop\反應小遊戲V4\反應小遊戲\obj\x86\Release\反應小遊戲.exe
+C:\Users\ksimpac\Desktop\反應小遊戲V4\反應小遊戲\obj\x86\Release\反應小遊戲.xml
+C:\Users\ksimpac\Desktop\反應小遊戲V4\反應小遊戲\obj\x86\Release\反應小遊戲.pdb
+E:\Projects\隨興寫寫\反應小遊戲V4\反應小遊戲\obj\x86\Release\反應小遊戲.exe
+E:\Projects\隨興寫寫\反應小遊戲V4\反應小遊戲\obj\x86\Release\反應小遊戲.xml
+E:\Projects\隨興寫寫\反應小遊戲V4\反應小遊戲\obj\x86\Release\反應小遊戲.pdb

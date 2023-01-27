@@ -1,0 +1,10 @@
+D:\Projects\技藝競賽題目\103年模擬試題\數學問題 檢查質數\數學問題 檢查質數\bin\Debug\數學問題 檢查質數.exe.config
+D:\Projects\技藝競賽題目\103年模擬試題\數學問題 檢查質數\數學問題 檢查質數\bin\Debug\數學問題 檢查質數.exe
+D:\Projects\技藝競賽題目\103年模擬試題\數學問題 檢查質數\數學問題 檢查質數\bin\Debug\數學問題 檢查質數.pdb
+D:\Projects\技藝競賽題目\103年模擬試題\數學問題 檢查質數\數學問題 檢查質數\bin\Debug\數學問題 檢查質數.xml
+D:\Projects\技藝競賽題目\103年模擬試題\數學問題 檢查質數\數學問題 檢查質數\obj\Debug\數學問題_檢查質數.Form1.resources
+D:\Projects\技藝競賽題目\103年模擬試題\數學問題 檢查質數\數學問題 檢查質數\obj\Debug\數學問題_檢查質數.Resources.resources
+D:\Projects\技藝競賽題目\103年模擬試題\數學問題 檢查質數\數學問題 檢查質數\obj\Debug\數學問題 檢查質數.vbproj.GenerateResource.Cache
+D:\Projects\技藝競賽題目\103年模擬試題\數學問題 檢查質數\數學問題 檢查質數\obj\Debug\數學問題 檢查質數.exe
+D:\Projects\技藝競賽題目\103年模擬試題\數學問題 檢查質數\數學問題 檢查質數\obj\Debug\數學問題 檢查質數.xml
+D:\Projects\技藝競賽題目\103年模擬試題\數學問題 檢查質數\數學問題 檢查質數\obj\Debug\數學問題 檢查質數.pdb

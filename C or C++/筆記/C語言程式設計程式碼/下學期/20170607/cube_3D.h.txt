@@ -1,0 +1,14 @@
+#ifndef cube_3D_h
+#define cube_3D_h
+
+#include "square_2D.h"
+
+class cube_3D:public square_2D
+{
+public:
+	void comput_volume();
+	void compute_surface();
+	double height;
+};
+
+#endif

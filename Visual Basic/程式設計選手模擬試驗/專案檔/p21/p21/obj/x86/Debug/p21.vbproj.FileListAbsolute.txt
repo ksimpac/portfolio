@@ -1,0 +1,14 @@
+C:\Users\mlvs\Desktop\p21\p21\bin\Debug\p21.exe
+C:\Users\mlvs\Desktop\p21\p21\bin\Debug\p21.pdb
+C:\Users\mlvs\Desktop\p21\p21\bin\Debug\p21.xml
+C:\Users\mlvs\Desktop\p21\p21\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mlvs\Desktop\p21\p21\obj\x86\Debug\p21.Form1.resources
+C:\Users\mlvs\Desktop\p21\p21\obj\x86\Debug\p21.Resources.resources
+C:\Users\mlvs\Desktop\p21\p21\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mlvs\Desktop\p21\p21\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mlvs\Desktop\p21\p21\obj\x86\Debug\p21.exe
+C:\Users\mlvs\Desktop\p21\p21\obj\x86\Debug\p21.xml
+C:\Users\mlvs\Desktop\p21\p21\obj\x86\Debug\p21.pdb
+E:\Projects\程式設計選手模擬試驗\專案檔\p21\p21\obj\x86\Debug\p21.exe
+E:\Projects\程式設計選手模擬試驗\專案檔\p21\p21\obj\x86\Debug\p21.xml
+E:\Projects\程式設計選手模擬試驗\專案檔\p21\p21\obj\x86\Debug\p21.pdb

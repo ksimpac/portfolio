@@ -1,0 +1,9 @@
+E:\Projects\技藝競賽題目\102年模擬\樹葉節點到根節點之路徑\樹葉節點到根節點之路徑\bin\Debug\樹葉節點到根節點之路徑.exe
+E:\Projects\技藝競賽題目\102年模擬\樹葉節點到根節點之路徑\樹葉節點到根節點之路徑\bin\Debug\樹葉節點到根節點之路徑.pdb
+E:\Projects\技藝競賽題目\102年模擬\樹葉節點到根節點之路徑\樹葉節點到根節點之路徑\bin\Debug\樹葉節點到根節點之路徑.xml
+E:\Projects\技藝競賽題目\102年模擬\樹葉節點到根節點之路徑\樹葉節點到根節點之路徑\obj\x86\Debug\樹葉節點到根節點之路徑.Form1.resources
+E:\Projects\技藝競賽題目\102年模擬\樹葉節點到根節點之路徑\樹葉節點到根節點之路徑\obj\x86\Debug\樹葉節點到根節點之路徑.Resources.resources
+E:\Projects\技藝競賽題目\102年模擬\樹葉節點到根節點之路徑\樹葉節點到根節點之路徑\obj\x86\Debug\樹葉節點到根節點之路徑.vbproj.GenerateResource.Cache
+E:\Projects\技藝競賽題目\102年模擬\樹葉節點到根節點之路徑\樹葉節點到根節點之路徑\obj\x86\Debug\樹葉節點到根節點之路徑.exe
+E:\Projects\技藝競賽題目\102年模擬\樹葉節點到根節點之路徑\樹葉節點到根節點之路徑\obj\x86\Debug\樹葉節點到根節點之路徑.xml
+E:\Projects\技藝競賽題目\102年模擬\樹葉節點到根節點之路徑\樹葉節點到根節點之路徑\obj\x86\Debug\樹葉節點到根節點之路徑.pdb

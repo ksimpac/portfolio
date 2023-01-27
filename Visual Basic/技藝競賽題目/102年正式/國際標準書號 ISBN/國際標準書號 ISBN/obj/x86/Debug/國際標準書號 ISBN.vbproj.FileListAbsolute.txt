@@ -1,0 +1,14 @@
+C:\Users\mlvs\Desktop\程式試題\技藝競賽題目\102年正式\國際標準書號 ISBN\國際標準書號 ISBN\bin\Debug\國際標準書號 ISBN.exe
+C:\Users\mlvs\Desktop\程式試題\技藝競賽題目\102年正式\國際標準書號 ISBN\國際標準書號 ISBN\bin\Debug\國際標準書號 ISBN.pdb
+C:\Users\mlvs\Desktop\程式試題\技藝競賽題目\102年正式\國際標準書號 ISBN\國際標準書號 ISBN\bin\Debug\國際標準書號 ISBN.xml
+C:\Users\mlvs\Desktop\程式試題\技藝競賽題目\102年正式\國際標準書號 ISBN\國際標準書號 ISBN\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mlvs\Desktop\程式試題\技藝競賽題目\102年正式\國際標準書號 ISBN\國際標準書號 ISBN\obj\x86\Debug\國際標準書號_ISBN.Form1.resources
+C:\Users\mlvs\Desktop\程式試題\技藝競賽題目\102年正式\國際標準書號 ISBN\國際標準書號 ISBN\obj\x86\Debug\國際標準書號_ISBN.Resources.resources
+C:\Users\mlvs\Desktop\程式試題\技藝競賽題目\102年正式\國際標準書號 ISBN\國際標準書號 ISBN\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mlvs\Desktop\程式試題\技藝競賽題目\102年正式\國際標準書號 ISBN\國際標準書號 ISBN\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mlvs\Desktop\程式試題\技藝競賽題目\102年正式\國際標準書號 ISBN\國際標準書號 ISBN\obj\x86\Debug\國際標準書號 ISBN.exe
+C:\Users\mlvs\Desktop\程式試題\技藝競賽題目\102年正式\國際標準書號 ISBN\國際標準書號 ISBN\obj\x86\Debug\國際標準書號 ISBN.xml
+C:\Users\mlvs\Desktop\程式試題\技藝競賽題目\102年正式\國際標準書號 ISBN\國際標準書號 ISBN\obj\x86\Debug\國際標準書號 ISBN.pdb
+D:\Projects\技藝競賽題目\102年正式\國際標準書號 ISBN\國際標準書號 ISBN\obj\x86\Debug\國際標準書號 ISBN.exe
+D:\Projects\技藝競賽題目\102年正式\國際標準書號 ISBN\國際標準書號 ISBN\obj\x86\Debug\國際標準書號 ISBN.xml
+D:\Projects\技藝競賽題目\102年正式\國際標準書號 ISBN\國際標準書號 ISBN\obj\x86\Debug\國際標準書號 ISBN.pdb

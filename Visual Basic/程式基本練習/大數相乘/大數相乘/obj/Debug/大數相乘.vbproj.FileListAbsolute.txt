@@ -1,0 +1,10 @@
+D:\Projects\大數相乘\大數相乘\bin\Debug\大數相乘.exe.config
+D:\Projects\大數相乘\大數相乘\bin\Debug\大數相乘.exe
+D:\Projects\大數相乘\大數相乘\bin\Debug\大數相乘.pdb
+D:\Projects\大數相乘\大數相乘\bin\Debug\大數相乘.xml
+D:\Projects\大數相乘\大數相乘\obj\Debug\大數相乘.Form1.resources
+D:\Projects\大數相乘\大數相乘\obj\Debug\大數相乘.Resources.resources
+D:\Projects\大數相乘\大數相乘\obj\Debug\大數相乘.vbproj.GenerateResource.Cache
+D:\Projects\大數相乘\大數相乘\obj\Debug\大數相乘.exe
+D:\Projects\大數相乘\大數相乘\obj\Debug\大數相乘.xml
+D:\Projects\大數相乘\大數相乘\obj\Debug\大數相乘.pdb

@@ -1,0 +1,9 @@
+C:\Users\User\AppData\Local\Temporary Projects\7\bin\Debug\7.exe
+C:\Users\User\AppData\Local\Temporary Projects\7\bin\Debug\7.pdb
+C:\Users\User\AppData\Local\Temporary Projects\7\bin\Debug\7.xml
+C:\Users\User\AppData\Local\Temporary Projects\7\obj\x86\Debug\_7.Form1.resources
+C:\Users\User\AppData\Local\Temporary Projects\7\obj\x86\Debug\_7.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\7\obj\x86\Debug\7.vbproj.GenerateResource.Cache
+C:\Users\User\AppData\Local\Temporary Projects\7\obj\x86\Debug\7.exe
+C:\Users\User\AppData\Local\Temporary Projects\7\obj\x86\Debug\7.xml
+C:\Users\User\AppData\Local\Temporary Projects\7\obj\x86\Debug\7.pdb

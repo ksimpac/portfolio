@@ -1,0 +1,18 @@
+import java.util.Scanner;
+
+public class Pokemon_Go_Ball
+{
+	
+	public static void main(String[] args)
+	{
+		Scanner input = new Scanner(System.in);
+		
+		
+	}
+	
+	public static void print(int level)
+	{
+		
+	}
+
+}

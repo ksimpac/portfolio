@@ -1,0 +1,9 @@
+C:\Users\mlvs\Desktop\程式試題\技藝競賽題目\100年模擬\p31\p31\bin\Debug\p31.exe
+C:\Users\mlvs\Desktop\程式試題\技藝競賽題目\100年模擬\p31\p31\bin\Debug\p31.pdb
+C:\Users\mlvs\Desktop\程式試題\技藝競賽題目\100年模擬\p31\p31\bin\Debug\p31.xml
+C:\Users\mlvs\Desktop\程式試題\技藝競賽題目\100年模擬\p31\p31\obj\x86\Debug\p31.Form1.resources
+C:\Users\mlvs\Desktop\程式試題\技藝競賽題目\100年模擬\p31\p31\obj\x86\Debug\p31.Resources.resources
+C:\Users\mlvs\Desktop\程式試題\技藝競賽題目\100年模擬\p31\p31\obj\x86\Debug\p31.vbproj.GenerateResource.Cache
+C:\Users\mlvs\Desktop\程式試題\技藝競賽題目\100年模擬\p31\p31\obj\x86\Debug\p31.exe
+C:\Users\mlvs\Desktop\程式試題\技藝競賽題目\100年模擬\p31\p31\obj\x86\Debug\p31.xml
+C:\Users\mlvs\Desktop\程式試題\技藝競賽題目\100年模擬\p31\p31\obj\x86\Debug\p31.pdb

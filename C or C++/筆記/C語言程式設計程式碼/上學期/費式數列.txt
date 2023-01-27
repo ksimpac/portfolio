@@ -1,0 +1,61 @@
+﻿#include <stdio.h>
+#include <stdlib.h>
+
+int fib(int n); //計算費式數列副程式的原型宣告
+
+int main(void)
+{
+	long long int fib1 = 0, fib2 = 1, fib_total = 0, n = 0;
+	printf("請輸入費式數列第幾項(從第一項開始計算):");
+	scanf_s("%d", &n);
+
+	if (n == 1) //第一項
+	{
+		printf("%d\n", fib1);
+	}
+	else if (n == 2) //第二項
+	{
+		printf("%d,", fib1);
+		printf("%d\n", fib2);
+	}
+	else //第三項以上(包括第三項)
+	{
+		printf("%d,", fib1);
+		printf("%d,", fib2);
+	}
+
+	for (int i = 3; i <= n; i++) //從第三項開始執行
+	{
+
+		fib_total = fib1 + fib2;
+
+		if (i % 2 == 1) //單數項
+		{
+			fib1 = fib_total;
+		}
+		else //偶數項
+		{
+			fib2 = fib_total;
+		}
+
+		if (i != n) printf("%d,", fib_total); //控制逗號(,)
+	}
+	if (fib_total != 0) printf("%d\n", fib_total); //假設不是計算第一‧二，印出最後一個數字
+	printf("遞迴計算結果為%d\n", fib(n - 1)); //使用遞迴計算費式數列
+	system("PAUSE");
+}
+int fib(int n) //計算費式數列的副程式(使用遞迴)
+{
+	if (n == 0) //第零項
+	{
+		return 0;
+	}
+	else if (n == 1) //第一項
+	{
+		return 1;
+	}
+	else //第n項
+	{
+		return fib(n - 2) + fib(n - 1);
+	}
+}

@@ -1,0 +1,51 @@
+﻿#include <stdio.h>
+#include <stdlib.h>
+
+double pi_count(int n); //原型宣告
+double s(float num); //原型宣告
+
+int main(void)
+{
+	double pi = 0.0; //pi的結果
+	int n = 0; //n為算到第幾項
+	scanf_s("%d", &n);
+	pi = pi_count(n);
+	//printf("%d",n); (期中考答案再寫的時候多了這一行，結果pi前面多一個3，pi依然正確)
+	printf("%lf\n", pi); //印出pi的結果
+	system("PAUSE"); //這行只是要讓程式停下來不要馬上結束，我期中考沒寫這行
+	return 0;
+}
+
+double pi_count(int n) //計算pi的公式
+{
+	double result = 0.0,num = 0.0;
+
+	/*
+	result儲存結果
+	num儲存分數乘到哪一個數字
+	*/
+
+	for (int i = 1; i <= n; i++) //從第一項算到第n項
+	{
+		if (i == 1) //第一項
+		{
+			result = 3.0;
+		}
+		else if (i % 2 == 0) //偶數項
+		{
+			result += 4 / s(num);
+		}
+		else //單數項
+		{
+			result -= 4 / s(num);
+		}
+
+		num += 2;
+	}
+	return result; //回傳pi的值
+}
+
+double s(float num) //計算分母
+{
+	return num * (num + 1) * (num + 2);
+}

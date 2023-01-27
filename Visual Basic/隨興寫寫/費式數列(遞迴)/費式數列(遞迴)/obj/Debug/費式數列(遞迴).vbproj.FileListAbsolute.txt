@@ -1,0 +1,10 @@
+E:\Projects\隨興寫寫\VB\費式數列(遞迴)\費式數列(遞迴)\bin\Debug\費式數列(遞迴).exe.config
+E:\Projects\隨興寫寫\VB\費式數列(遞迴)\費式數列(遞迴)\bin\Debug\費式數列(遞迴).exe
+E:\Projects\隨興寫寫\VB\費式數列(遞迴)\費式數列(遞迴)\bin\Debug\費式數列(遞迴).pdb
+E:\Projects\隨興寫寫\VB\費式數列(遞迴)\費式數列(遞迴)\bin\Debug\費式數列(遞迴).xml
+E:\Projects\隨興寫寫\VB\費式數列(遞迴)\費式數列(遞迴)\obj\Debug\費式數列_遞迴_.Form1.resources
+E:\Projects\隨興寫寫\VB\費式數列(遞迴)\費式數列(遞迴)\obj\Debug\費式數列_遞迴_.Resources.resources
+E:\Projects\隨興寫寫\VB\費式數列(遞迴)\費式數列(遞迴)\obj\Debug\費式數列(遞迴).vbproj.GenerateResource.Cache
+E:\Projects\隨興寫寫\VB\費式數列(遞迴)\費式數列(遞迴)\obj\Debug\費式數列(遞迴).exe
+E:\Projects\隨興寫寫\VB\費式數列(遞迴)\費式數列(遞迴)\obj\Debug\費式數列(遞迴).xml
+E:\Projects\隨興寫寫\VB\費式數列(遞迴)\費式數列(遞迴)\obj\Debug\費式數列(遞迴).pdb

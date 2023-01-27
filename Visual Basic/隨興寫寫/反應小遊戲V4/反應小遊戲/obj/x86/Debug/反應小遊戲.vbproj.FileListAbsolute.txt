@@ -1,0 +1,53 @@
+C:\Users\ksimpac\AppData\Local\Temporary Projects\反應小遊戲\bin\Debug\反應小遊戲.exe
+C:\Users\ksimpac\AppData\Local\Temporary Projects\反應小遊戲\bin\Debug\反應小遊戲.pdb
+C:\Users\ksimpac\AppData\Local\Temporary Projects\反應小遊戲\bin\Debug\反應小遊戲.xml
+C:\Users\ksimpac\AppData\Local\Temporary Projects\反應小遊戲\obj\x86\Debug\反應小遊戲.Form1.resources
+C:\Users\ksimpac\AppData\Local\Temporary Projects\反應小遊戲\obj\x86\Debug\反應小遊戲.Resources.resources
+C:\Users\ksimpac\AppData\Local\Temporary Projects\反應小遊戲\obj\x86\Debug\反應小遊戲.vbproj.GenerateResource.Cache
+C:\Users\ksimpac\AppData\Local\Temporary Projects\反應小遊戲\obj\x86\Debug\反應小遊戲.exe
+C:\Users\ksimpac\AppData\Local\Temporary Projects\反應小遊戲\obj\x86\Debug\反應小遊戲.xml
+C:\Users\ksimpac\AppData\Local\Temporary Projects\反應小遊戲\obj\x86\Debug\反應小遊戲.pdb
+C:\Users\ksimpac\Desktop\反應小遊戲\反應小遊戲\obj\x86\Debug\反應小遊戲.exe
+C:\Users\ksimpac\Desktop\反應小遊戲\反應小遊戲\obj\x86\Debug\反應小遊戲.xml
+C:\Users\ksimpac\Desktop\反應小遊戲\反應小遊戲\obj\x86\Debug\反應小遊戲.pdb
+C:\Users\ksimpac\Desktop\反應小遊戲\反應小遊戲\bin\Debug\反應小遊戲.exe
+C:\Users\ksimpac\Desktop\反應小遊戲\反應小遊戲\bin\Debug\反應小遊戲.pdb
+C:\Users\ksimpac\Desktop\反應小遊戲\反應小遊戲\bin\Debug\反應小遊戲.xml
+C:\Users\ksimpac\Desktop\反應小遊戲\反應小遊戲\obj\x86\Debug\反應小遊戲.Form1.resources
+C:\Users\ksimpac\Desktop\反應小遊戲\反應小遊戲\obj\x86\Debug\反應小遊戲.Resources.resources
+C:\Users\ksimpac\Desktop\反應小遊戲\反應小遊戲\obj\x86\Debug\反應小遊戲.vbproj.GenerateResource.Cache
+C:\Users\ksimpac\Desktop\反應小遊戲V1\反應小遊戲\obj\x86\Debug\反應小遊戲.exe
+C:\Users\ksimpac\Desktop\反應小遊戲V1\反應小遊戲\obj\x86\Debug\反應小遊戲.xml
+C:\Users\ksimpac\Desktop\反應小遊戲V1\反應小遊戲\obj\x86\Debug\反應小遊戲.pdb
+C:\Users\ksimpac\Desktop\反應小遊戲V1\反應小遊戲\bin\Debug\反應小遊戲.exe
+C:\Users\ksimpac\Desktop\反應小遊戲V1\反應小遊戲\bin\Debug\反應小遊戲.pdb
+C:\Users\ksimpac\Desktop\反應小遊戲V1\反應小遊戲\bin\Debug\反應小遊戲.xml
+C:\Users\ksimpac\Desktop\反應小遊戲V1\反應小遊戲\obj\x86\Debug\反應小遊戲.Form1.resources
+C:\Users\ksimpac\Desktop\反應小遊戲V1\反應小遊戲\obj\x86\Debug\反應小遊戲.Resources.resources
+C:\Users\ksimpac\Desktop\反應小遊戲V1\反應小遊戲\obj\x86\Debug\反應小遊戲.vbproj.GenerateResource.Cache
+C:\Users\ksimpac\Desktop\反應小遊戲V2\反應小遊戲\obj\x86\Debug\反應小遊戲.exe
+C:\Users\ksimpac\Desktop\反應小遊戲V2\反應小遊戲\obj\x86\Debug\反應小遊戲.xml
+C:\Users\ksimpac\Desktop\反應小遊戲V2\反應小遊戲\obj\x86\Debug\反應小遊戲.pdb
+C:\Users\MLVS\Desktop\反應小遊戲V3\反應小遊戲\obj\x86\Debug\反應小遊戲.exe
+C:\Users\MLVS\Desktop\反應小遊戲V3\反應小遊戲\obj\x86\Debug\反應小遊戲.xml
+C:\Users\MLVS\Desktop\反應小遊戲V3\反應小遊戲\obj\x86\Debug\反應小遊戲.pdb
+C:\Users\MLVS\Desktop\反應小遊戲V3\反應小遊戲\bin\Debug\反應小遊戲.exe
+C:\Users\MLVS\Desktop\反應小遊戲V3\反應小遊戲\bin\Debug\反應小遊戲.pdb
+C:\Users\MLVS\Desktop\反應小遊戲V3\反應小遊戲\bin\Debug\反應小遊戲.xml
+C:\Users\MLVS\Desktop\反應小遊戲V3\反應小遊戲\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MLVS\Desktop\反應小遊戲V3\反應小遊戲\obj\x86\Debug\反應小遊戲.Form1.resources
+C:\Users\MLVS\Desktop\反應小遊戲V3\反應小遊戲\obj\x86\Debug\反應小遊戲.Resources.resources
+C:\Users\MLVS\Desktop\反應小遊戲V3\反應小遊戲\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MLVS\Desktop\反應小遊戲V3\反應小遊戲\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ksimpac\Desktop\反應小遊戲V4\反應小遊戲\obj\x86\Debug\反應小遊戲.exe
+C:\Users\ksimpac\Desktop\反應小遊戲V4\反應小遊戲\obj\x86\Debug\反應小遊戲.xml
+C:\Users\ksimpac\Desktop\反應小遊戲V4\反應小遊戲\obj\x86\Debug\反應小遊戲.pdb
+E:\Projects\隨興寫寫\反應小遊戲V4\反應小遊戲\bin\Debug\反應小遊戲.exe
+E:\Projects\隨興寫寫\反應小遊戲V4\反應小遊戲\bin\Debug\反應小遊戲.pdb
+E:\Projects\隨興寫寫\反應小遊戲V4\反應小遊戲\bin\Debug\反應小遊戲.xml
+E:\Projects\隨興寫寫\反應小遊戲V4\反應小遊戲\obj\x86\Debug\反應小遊戲.Form1.resources
+E:\Projects\隨興寫寫\反應小遊戲V4\反應小遊戲\obj\x86\Debug\反應小遊戲.Resources.resources
+E:\Projects\隨興寫寫\反應小遊戲V4\反應小遊戲\obj\x86\Debug\反應小遊戲.vbproj.GenerateResource.Cache
+E:\Projects\隨興寫寫\反應小遊戲V4\反應小遊戲\obj\x86\Debug\反應小遊戲.exe
+E:\Projects\隨興寫寫\反應小遊戲V4\反應小遊戲\obj\x86\Debug\反應小遊戲.xml
+E:\Projects\隨興寫寫\反應小遊戲V4\反應小遊戲\obj\x86\Debug\反應小遊戲.pdb

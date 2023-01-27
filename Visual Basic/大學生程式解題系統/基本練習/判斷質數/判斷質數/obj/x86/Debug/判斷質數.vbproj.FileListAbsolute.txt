@@ -1,0 +1,9 @@
+D:\Projects\大學生程式解題系統\判斷質數\判斷質數\bin\Debug\判斷質數.exe
+D:\Projects\大學生程式解題系統\判斷質數\判斷質數\bin\Debug\判斷質數.pdb
+D:\Projects\大學生程式解題系統\判斷質數\判斷質數\bin\Debug\判斷質數.xml
+D:\Projects\大學生程式解題系統\判斷質數\判斷質數\obj\x86\Debug\判斷質數.Form1.resources
+D:\Projects\大學生程式解題系統\判斷質數\判斷質數\obj\x86\Debug\判斷質數.Resources.resources
+D:\Projects\大學生程式解題系統\判斷質數\判斷質數\obj\x86\Debug\判斷質數.vbproj.GenerateResource.Cache
+D:\Projects\大學生程式解題系統\判斷質數\判斷質數\obj\x86\Debug\判斷質數.exe
+D:\Projects\大學生程式解題系統\判斷質數\判斷質數\obj\x86\Debug\判斷質數.xml
+D:\Projects\大學生程式解題系統\判斷質數\判斷質數\obj\x86\Debug\判斷質數.pdb

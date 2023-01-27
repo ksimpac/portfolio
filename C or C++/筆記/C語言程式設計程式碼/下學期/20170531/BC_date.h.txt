@@ -1,0 +1,18 @@
+#ifndef BC_Date_H
+#define BC_Date_H
+
+class BC_Date
+{
+public:
+	BC_Date(int, int, int);
+	void setDate(int, int, int);
+	void dayerror();
+	~BC_Date();
+private:
+	int year;
+	int mouth;
+	int day;
+	bool check;
+};
+#endif
+

@@ -1,0 +1,9 @@
+E:\Projects\技藝競賽題目\99年模擬\p11\p11\bin\Debug\p11.exe
+E:\Projects\技藝競賽題目\99年模擬\p11\p11\bin\Debug\p11.pdb
+E:\Projects\技藝競賽題目\99年模擬\p11\p11\bin\Debug\p11.xml
+E:\Projects\技藝競賽題目\99年模擬\p11\p11\obj\x86\Debug\p11.Form1.resources
+E:\Projects\技藝競賽題目\99年模擬\p11\p11\obj\x86\Debug\p11.Resources.resources
+E:\Projects\技藝競賽題目\99年模擬\p11\p11\obj\x86\Debug\p11.vbproj.GenerateResource.Cache
+E:\Projects\技藝競賽題目\99年模擬\p11\p11\obj\x86\Debug\p11.exe
+E:\Projects\技藝競賽題目\99年模擬\p11\p11\obj\x86\Debug\p11.xml
+E:\Projects\技藝競賽題目\99年模擬\p11\p11\obj\x86\Debug\p11.pdb

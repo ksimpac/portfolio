@@ -1,0 +1,9 @@
+D:\Projects\大學生程式解題系統\迴文\迴文\bin\Debug\迴文.exe
+D:\Projects\大學生程式解題系統\迴文\迴文\bin\Debug\迴文.pdb
+D:\Projects\大學生程式解題系統\迴文\迴文\bin\Debug\迴文.xml
+D:\Projects\大學生程式解題系統\迴文\迴文\obj\x86\Debug\迴文.Form1.resources
+D:\Projects\大學生程式解題系統\迴文\迴文\obj\x86\Debug\迴文.Resources.resources
+D:\Projects\大學生程式解題系統\迴文\迴文\obj\x86\Debug\迴文.vbproj.GenerateResource.Cache
+D:\Projects\大學生程式解題系統\迴文\迴文\obj\x86\Debug\迴文.exe
+D:\Projects\大學生程式解題系統\迴文\迴文\obj\x86\Debug\迴文.xml
+D:\Projects\大學生程式解題系統\迴文\迴文\obj\x86\Debug\迴文.pdb

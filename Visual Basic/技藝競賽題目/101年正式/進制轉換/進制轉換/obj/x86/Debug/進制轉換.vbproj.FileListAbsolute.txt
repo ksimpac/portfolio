@@ -1,0 +1,18 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\進制轉換\bin\Debug\進制轉換.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\進制轉換\bin\Debug\進制轉換.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\進制轉換\bin\Debug\進制轉換.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\進制轉換\obj\x86\Debug\進制轉換.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\進制轉換\obj\x86\Debug\進制轉換.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\進制轉換\obj\x86\Debug\進制轉換.vbproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\進制轉換\obj\x86\Debug\進制轉換.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\進制轉換\obj\x86\Debug\進制轉換.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\進制轉換\obj\x86\Debug\進制轉換.pdb
+D:\Projects\技藝競賽題目\101年正式\進制轉換\進制轉換\obj\x86\Debug\進制轉換.exe
+D:\Projects\技藝競賽題目\101年正式\進制轉換\進制轉換\obj\x86\Debug\進制轉換.xml
+D:\Projects\技藝競賽題目\101年正式\進制轉換\進制轉換\obj\x86\Debug\進制轉換.pdb
+D:\Projects\技藝競賽題目\101年正式\進制轉換\進制轉換\bin\Debug\進制轉換.exe
+D:\Projects\技藝競賽題目\101年正式\進制轉換\進制轉換\bin\Debug\進制轉換.pdb
+D:\Projects\技藝競賽題目\101年正式\進制轉換\進制轉換\bin\Debug\進制轉換.xml
+D:\Projects\技藝競賽題目\101年正式\進制轉換\進制轉換\obj\x86\Debug\進制轉換.Form1.resources
+D:\Projects\技藝競賽題目\101年正式\進制轉換\進制轉換\obj\x86\Debug\進制轉換.Resources.resources
+D:\Projects\技藝競賽題目\101年正式\進制轉換\進制轉換\obj\x86\Debug\進制轉換.vbproj.GenerateResource.Cache

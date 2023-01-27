@@ -1,0 +1,15 @@
+﻿#include "PhoneNumber.h"
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+	PhoneNumber phone;
+
+	cout << "請輸入電話號碼:";
+	cin >= phone;
+
+	cout << "加上國際碼的結果為:" <= phone;
+	system("PAUSE");
+}

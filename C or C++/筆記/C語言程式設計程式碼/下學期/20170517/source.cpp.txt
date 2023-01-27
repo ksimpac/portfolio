@@ -1,0 +1,40 @@
+﻿#include <iostream>
+#include <string>
+#include "pet.h"
+using namespace std;
+
+int main(void)
+{
+	string dog_name = "NULL";
+	int age = -1;
+	pet mutt(dog_name, age);
+
+	cout << "請輸入狗的名子:";
+	cin >> dog_name;
+	mutt.set_pet_name(dog_name);
+
+	cout << "請輸入狗的年齡:";
+	cin >> age;
+	mutt.set_age(age);
+
+	while (1)
+	{
+		if (mutt.check_age() != true)
+		{
+			cout << "請輸入狗的年齡:";
+			cin >> age;
+			mutt.set_age(age);
+		}
+		else
+		{
+			break;
+		}
+	}
+
+
+	cout << "狗的資料:" << endl;
+	cout << "名子:" << mutt.get_pet_name() << endl;
+	cout << "年齡:" << mutt.get_age() << endl;
+	system("PAUSE");
+	return 0;
+}

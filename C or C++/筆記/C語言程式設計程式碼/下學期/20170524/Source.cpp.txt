@@ -1,0 +1,28 @@
+﻿#include <iostream>
+#include "date.h"
+
+using namespace std;
+
+int main(void)
+{
+	date a;
+	unsigned int year;
+	unsigned int mouth;
+	unsigned int day;
+
+	cout << "請輸入年份(西元):";
+	cin >> year;
+
+	cout << "請輸入月份:";
+	cin >> mouth;
+
+	cout << "請輸入日:";
+	cin >> day;
+
+
+	a.setDate(year, mouth, day);
+	a.printDate();
+
+	system("PAUSE");
+	return 0;
+}

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+圖形最短路徑(包括權重值)
+</name>
+</assembly>
+<members>
+<member name="P:圖形最短路徑_包括權重值_.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:圖形最短路徑_包括權重值_.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:圖形最短路徑_包括權重值_.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

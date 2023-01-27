@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/show"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="452dp"
+        android:text="顯示文字"
+        android:textColor="#0000FF"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.111"
+        tools:ignore = "HardCodedText"
+        />
+
+    <Button
+        android:id="@+id/btn_seven"
+        android:layout_width="70sp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="4dp"
+        android:layout_marginLeft="4dp"
+        android:text="7"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.322"
+        tools:ignore="HardCodedText" />
+
+    <Button
+        android:id="@+id/btn_eight"
+        android:layout_width="70sp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="92dp"
+        android:layout_marginLeft="92dp"
+        android:text="8"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.322"
+        tools:ignore="HardCodedText" />
+
+    <Button
+        android:id="@+id/btn_nine"
+        android:layout_width="70sp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="188dp"
+        android:layout_marginLeft="188dp"
+        android:text="9"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.322"
+        tools:ignore="HardCodedText" />
+
+    <Button
+        android:id="@+id/btn_six"
+        android:layout_width="70sp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="188dp"
+        android:layout_marginLeft="188dp"
+        android:text="6"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.537"
+        tools:ignore="HardCodedText" />
+
+    <Button
+        android:id="@+id/btn_five"
+        android:layout_width="70sp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="92dp"
+        android:layout_marginLeft="92dp"
+        android:text="5"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.537"
+        tools:ignore="HardCodedText" />
+
+    <Button
+        android:id="@+id/btn_four"
+        android:layout_width="70sp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="4dp"
+        android:layout_marginLeft="4dp"
+        android:text="4"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.537"
+        tools:ignore="HardCodedText" />
+
+    <Button
+        android:id="@+id/btn_three"
+        android:layout_width="70sp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="188dp"
+        android:layout_marginLeft="188dp"
+        android:text="3"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.74"
+        tools:ignore="HardCodedText" />
+
+    <Button
+        android:id="@+id/btn_two"
+        android:layout_width="70sp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="92dp"
+        android:layout_marginLeft="92dp"
+        android:text="2"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.74"
+        tools:ignore="HardCodedText" />
+
+    <Button
+        android:id="@+id/btn_one"
+        android:layout_width="70sp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="4dp"
+        android:layout_marginLeft="4dp"
+        android:text="1"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.74"
+        tools:ignore="HardCodedText" />
+
+    <Button
+        android:id="@+id/btn_zero"
+        android:layout_width="70sp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="4dp"
+        android:layout_marginLeft="4dp"
+        android:text="0"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.942"
+        tools:ignore="HardCodedText" />
+
+    <Button
+        android:id="@+id/btn_dot"
+        android:layout_width="70sp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="92dp"
+        android:layout_marginLeft="92dp"
+        android:text="."
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.942"
+        tools:ignore="HardCodedText" />
+
+    <Button
+        android:id="@+id/btn_equal"
+        android:layout_width="70sp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="188dp"
+        android:layout_marginLeft="188dp"
+        android:text="="
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.942"
+        tools:ignore="HardCodedText" />
+
+    <Button
+        android:id="@+id/btn_plus"
+        android:layout_width="70sp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="280dp"
+        android:layout_marginLeft="280dp"
+        android:text="+"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.322"
+        tools:ignore="HardCodedText" />
+
+    <Button
+        android:id="@+id/btn_minus"
+        android:layout_width="70sp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="280dp"
+        android:layout_marginLeft="280dp"
+        android:text="-"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.537"
+        tools:ignore="HardCodedText" />
+
+    <Button
+        android:id="@+id/btn_multi"
+        android:layout_width="70sp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="280dp"
+        android:layout_marginLeft="280dp"
+        android:text="*"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.74"
+        tools:ignore="HardCodedText" />
+
+    <Button
+        android:id="@+id/btn_devision"
+        android:layout_width="70sp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="280dp"
+        android:layout_marginLeft="280dp"
+        android:text="/"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.942"
+        tools:ignore="HardCodedText" />
+
+    <Button
+        android:id="@+id/btn_CE"
+        android:layout_width="70sp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="4dp"
+        android:layout_marginLeft="4dp"
+        android:text="CE"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.142"
+        tools:ignore="HardCodedText" />
+
+    <Button
+        android:id="@+id/btn_BS"
+        android:layout_width="70sp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="280dp"
+        android:layout_marginLeft="280dp"
+        android:text="←"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.142"
+        tools:ignore="HardCodedText" />
+
+</android.support.constraint.ConstraintLayout>

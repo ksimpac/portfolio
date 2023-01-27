@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\p31\p31\bin\Debug\p31.exe
+C:\Users\Administrator\Desktop\p31\p31\bin\Debug\p31.pdb
+C:\Users\Administrator\Desktop\p31\p31\bin\Debug\p31.xml
+C:\Users\Administrator\Desktop\p31\p31\obj\x86\Debug\p31.Form1.resources
+C:\Users\Administrator\Desktop\p31\p31\obj\x86\Debug\p31.Resources.resources
+C:\Users\Administrator\Desktop\p31\p31\obj\x86\Debug\p31.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\p31\p31\obj\x86\Debug\p31.exe
+C:\Users\Administrator\Desktop\p31\p31\obj\x86\Debug\p31.xml
+C:\Users\Administrator\Desktop\p31\p31\obj\x86\Debug\p31.pdb

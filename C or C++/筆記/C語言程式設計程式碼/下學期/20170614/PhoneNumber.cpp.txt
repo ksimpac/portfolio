@@ -1,0 +1,21 @@
+﻿#include "PhoneNumber.h"
+#include <iomanip>
+
+using namespace std;
+
+istream &operator>=(std::istream &input, PhoneNumber &number)
+{
+	input.ignore(); //忽略0
+	input >> setw(3) >> number.one;
+	input.ignore(); //忽略dash(-)
+	input >> setw(3) >> number.two;
+	input.ignore(); //忽略dash(-)
+	input >> setw(3) >> number.three;
+	return input;
+}
+
+ostream &operator<=(ostream &output, const PhoneNumber &number)
+{
+	output << "(+886)" << number.one << "-" << number.two << "-" << number.three << endl;
+	return output;
+}

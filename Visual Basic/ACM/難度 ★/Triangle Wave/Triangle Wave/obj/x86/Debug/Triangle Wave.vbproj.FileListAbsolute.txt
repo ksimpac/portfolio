@@ -1,0 +1,9 @@
+C:\Users\MLVS\Desktop\程式試題\ACM\Triangle Wave\Triangle Wave\bin\Debug\Triangle Wave.exe
+C:\Users\MLVS\Desktop\程式試題\ACM\Triangle Wave\Triangle Wave\bin\Debug\Triangle Wave.pdb
+C:\Users\MLVS\Desktop\程式試題\ACM\Triangle Wave\Triangle Wave\bin\Debug\Triangle Wave.xml
+C:\Users\MLVS\Desktop\程式試題\ACM\Triangle Wave\Triangle Wave\obj\x86\Debug\Triangle_Wave.Form1.resources
+C:\Users\MLVS\Desktop\程式試題\ACM\Triangle Wave\Triangle Wave\obj\x86\Debug\Triangle_Wave.Resources.resources
+C:\Users\MLVS\Desktop\程式試題\ACM\Triangle Wave\Triangle Wave\obj\x86\Debug\Triangle Wave.vbproj.GenerateResource.Cache
+C:\Users\MLVS\Desktop\程式試題\ACM\Triangle Wave\Triangle Wave\obj\x86\Debug\Triangle Wave.exe
+C:\Users\MLVS\Desktop\程式試題\ACM\Triangle Wave\Triangle Wave\obj\x86\Debug\Triangle Wave.xml
+C:\Users\MLVS\Desktop\程式試題\ACM\Triangle Wave\Triangle Wave\obj\x86\Debug\Triangle Wave.pdb

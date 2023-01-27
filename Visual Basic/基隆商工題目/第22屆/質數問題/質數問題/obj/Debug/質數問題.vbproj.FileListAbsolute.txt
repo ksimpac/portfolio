@@ -1,0 +1,14 @@
+D:\Projects\質數問題\質數問題\bin\Debug\質數問題.exe.config
+D:\Projects\質數問題\質數問題\bin\Debug\質數問題.exe
+D:\Projects\質數問題\質數問題\bin\Debug\質數問題.pdb
+D:\Projects\質數問題\質數問題\bin\Debug\質數問題.xml
+D:\Projects\質數問題\質數問題\obj\Debug\質數問題.Form1.resources
+D:\Projects\質數問題\質數問題\obj\Debug\質數問題.Resources.resources
+D:\Projects\質數問題\質數問題\obj\Debug\質數問題.vbproj.GenerateResource.Cache
+D:\Projects\質數問題\質數問題\obj\Debug\質數問題.exe
+D:\Projects\質數問題\質數問題\obj\Debug\質數問題.xml
+D:\Projects\質數問題\質數問題\obj\Debug\質數問題.pdb
+D:\Projects\程式基本練習\質數問題\質數問題\bin\Debug\質數問題.exe.config
+D:\Projects\程式基本練習\質數問題\質數問題\obj\Debug\質數問題.exe
+D:\Projects\程式基本練習\質數問題\質數問題\obj\Debug\質數問題.xml
+D:\Projects\程式基本練習\質數問題\質數問題\obj\Debug\質數問題.pdb

@@ -1,0 +1,9 @@
+C:\Users\MLVS\Desktop\程式試題\ACM\Box of Bricks\Box of Bricks\bin\Debug\Box of Bricks.exe
+C:\Users\MLVS\Desktop\程式試題\ACM\Box of Bricks\Box of Bricks\bin\Debug\Box of Bricks.pdb
+C:\Users\MLVS\Desktop\程式試題\ACM\Box of Bricks\Box of Bricks\bin\Debug\Box of Bricks.xml
+C:\Users\MLVS\Desktop\程式試題\ACM\Box of Bricks\Box of Bricks\obj\x86\Debug\Box_of_Bricks.Form1.resources
+C:\Users\MLVS\Desktop\程式試題\ACM\Box of Bricks\Box of Bricks\obj\x86\Debug\Box_of_Bricks.Resources.resources
+C:\Users\MLVS\Desktop\程式試題\ACM\Box of Bricks\Box of Bricks\obj\x86\Debug\Box of Bricks.vbproj.GenerateResource.Cache
+C:\Users\MLVS\Desktop\程式試題\ACM\Box of Bricks\Box of Bricks\obj\x86\Debug\Box of Bricks.exe
+C:\Users\MLVS\Desktop\程式試題\ACM\Box of Bricks\Box of Bricks\obj\x86\Debug\Box of Bricks.xml
+C:\Users\MLVS\Desktop\程式試題\ACM\Box of Bricks\Box of Bricks\obj\x86\Debug\Box of Bricks.pdb

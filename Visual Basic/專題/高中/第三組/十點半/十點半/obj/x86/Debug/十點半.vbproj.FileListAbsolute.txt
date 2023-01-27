@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\十點半\十點半\bin\Debug\十點半.exe
+C:\Users\User\Desktop\十點半\十點半\bin\Debug\十點半.pdb
+C:\Users\User\Desktop\十點半\十點半\bin\Debug\十點半.xml
+C:\Users\User\Desktop\十點半\十點半\obj\x86\Debug\十點半.Form1.resources
+C:\Users\User\Desktop\十點半\十點半\obj\x86\Debug\十點半.Resources.resources
+C:\Users\User\Desktop\十點半\十點半\obj\x86\Debug\十點半.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\十點半\十點半\obj\x86\Debug\十點半.exe
+C:\Users\User\Desktop\十點半\十點半\obj\x86\Debug\十點半.xml
+C:\Users\User\Desktop\十點半\十點半\obj\x86\Debug\十點半.pdb

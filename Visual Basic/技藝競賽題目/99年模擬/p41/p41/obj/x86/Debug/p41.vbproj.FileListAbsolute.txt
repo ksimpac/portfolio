@@ -1,0 +1,18 @@
+C:\Users\ksimpac\AppData\Local\Temporary Projects\p41\bin\Debug\p41.exe
+C:\Users\ksimpac\AppData\Local\Temporary Projects\p41\bin\Debug\p41.pdb
+C:\Users\ksimpac\AppData\Local\Temporary Projects\p41\bin\Debug\p41.xml
+C:\Users\ksimpac\AppData\Local\Temporary Projects\p41\obj\x86\Debug\p41.Form1.resources
+C:\Users\ksimpac\AppData\Local\Temporary Projects\p41\obj\x86\Debug\p41.Resources.resources
+C:\Users\ksimpac\AppData\Local\Temporary Projects\p41\obj\x86\Debug\p41.vbproj.GenerateResource.Cache
+C:\Users\ksimpac\AppData\Local\Temporary Projects\p41\obj\x86\Debug\p41.exe
+C:\Users\ksimpac\AppData\Local\Temporary Projects\p41\obj\x86\Debug\p41.xml
+C:\Users\ksimpac\AppData\Local\Temporary Projects\p41\obj\x86\Debug\p41.pdb
+E:\Projects\技藝競賽題目\99年模擬\p41\p41\obj\x86\Debug\p41.exe
+E:\Projects\技藝競賽題目\99年模擬\p41\p41\obj\x86\Debug\p41.xml
+E:\Projects\技藝競賽題目\99年模擬\p41\p41\obj\x86\Debug\p41.pdb
+E:\Projects\技藝競賽題目\99年模擬\p41\p41\bin\Debug\p41.exe
+E:\Projects\技藝競賽題目\99年模擬\p41\p41\bin\Debug\p41.pdb
+E:\Projects\技藝競賽題目\99年模擬\p41\p41\bin\Debug\p41.xml
+E:\Projects\技藝競賽題目\99年模擬\p41\p41\obj\x86\Debug\p41.Form1.resources
+E:\Projects\技藝競賽題目\99年模擬\p41\p41\obj\x86\Debug\p41.Resources.resources
+E:\Projects\技藝競賽題目\99年模擬\p41\p41\obj\x86\Debug\p41.vbproj.GenerateResource.Cache

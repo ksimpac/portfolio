@@ -1,0 +1,9 @@
+D:\Projects\大學生程式解題系統\字串比對\字串比對\bin\Debug\字串比對.exe
+D:\Projects\大學生程式解題系統\字串比對\字串比對\bin\Debug\字串比對.pdb
+D:\Projects\大學生程式解題系統\字串比對\字串比對\bin\Debug\字串比對.xml
+D:\Projects\大學生程式解題系統\字串比對\字串比對\obj\x86\Debug\字串比對.Form1.resources
+D:\Projects\大學生程式解題系統\字串比對\字串比對\obj\x86\Debug\字串比對.Resources.resources
+D:\Projects\大學生程式解題系統\字串比對\字串比對\obj\x86\Debug\字串比對.vbproj.GenerateResource.Cache
+D:\Projects\大學生程式解題系統\字串比對\字串比對\obj\x86\Debug\字串比對.exe
+D:\Projects\大學生程式解題系統\字串比對\字串比對\obj\x86\Debug\字串比對.xml
+D:\Projects\大學生程式解題系統\字串比對\字串比對\obj\x86\Debug\字串比對.pdb

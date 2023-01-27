@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\第三組\問題\問題\bin\Release\問題.exe
+C:\Users\User\Desktop\第三組\問題\問題\bin\Release\問題.pdb
+C:\Users\User\Desktop\第三組\問題\問題\bin\Release\問題.xml
+C:\Users\User\Desktop\第三組\問題\問題\obj\x86\Release\問題.Form1.resources
+C:\Users\User\Desktop\第三組\問題\問題\obj\x86\Release\問題.Resources.resources
+C:\Users\User\Desktop\第三組\問題\問題\obj\x86\Release\問題.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\第三組\問題\問題\obj\x86\Release\問題.exe
+C:\Users\User\Desktop\第三組\問題\問題\obj\x86\Release\問題.xml
+C:\Users\User\Desktop\第三組\問題\問題\obj\x86\Release\問題.pdb

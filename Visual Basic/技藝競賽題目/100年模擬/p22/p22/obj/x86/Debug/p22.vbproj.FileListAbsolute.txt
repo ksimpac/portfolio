@@ -1,0 +1,18 @@
+C:\Users\mlvs\AppData\Local\Temporary Projects\p22\bin\Debug\p22.exe
+C:\Users\mlvs\AppData\Local\Temporary Projects\p22\bin\Debug\p22.pdb
+C:\Users\mlvs\AppData\Local\Temporary Projects\p22\bin\Debug\p22.xml
+C:\Users\mlvs\AppData\Local\Temporary Projects\p22\obj\x86\Debug\p22.Form1.resources
+C:\Users\mlvs\AppData\Local\Temporary Projects\p22\obj\x86\Debug\p22.Resources.resources
+C:\Users\mlvs\AppData\Local\Temporary Projects\p22\obj\x86\Debug\p22.vbproj.GenerateResource.Cache
+C:\Users\mlvs\AppData\Local\Temporary Projects\p22\obj\x86\Debug\p22.exe
+C:\Users\mlvs\AppData\Local\Temporary Projects\p22\obj\x86\Debug\p22.xml
+C:\Users\mlvs\AppData\Local\Temporary Projects\p22\obj\x86\Debug\p22.pdb
+C:\Users\mlvs\Desktop\程式試題\技藝競賽題目\100年模擬\p22\p22\obj\x86\Debug\p22.exe
+C:\Users\mlvs\Desktop\程式試題\技藝競賽題目\100年模擬\p22\p22\obj\x86\Debug\p22.xml
+C:\Users\mlvs\Desktop\程式試題\技藝競賽題目\100年模擬\p22\p22\obj\x86\Debug\p22.pdb
+C:\Users\mlvs\Desktop\程式試題\技藝競賽題目\100年模擬\p22\p22\bin\Debug\p22.exe
+C:\Users\mlvs\Desktop\程式試題\技藝競賽題目\100年模擬\p22\p22\bin\Debug\p22.pdb
+C:\Users\mlvs\Desktop\程式試題\技藝競賽題目\100年模擬\p22\p22\bin\Debug\p22.xml
+C:\Users\mlvs\Desktop\程式試題\技藝競賽題目\100年模擬\p22\p22\obj\x86\Debug\p22.Form1.resources
+C:\Users\mlvs\Desktop\程式試題\技藝競賽題目\100年模擬\p22\p22\obj\x86\Debug\p22.Resources.resources
+C:\Users\mlvs\Desktop\程式試題\技藝競賽題目\100年模擬\p22\p22\obj\x86\Debug\p22.vbproj.GenerateResource.Cache

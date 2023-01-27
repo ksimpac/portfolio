@@ -1,0 +1,51 @@
+﻿#include <stdio.h>
+#include <stdlib.h>
+
+int bubblesort(int num[], int max_index);
+void swap(int *element1Ptr, int *element2Ptr);
+void printarray(int num[], int max_index);
+
+int main(void)
+{
+	int num[] = {606, 3750, 723, 1537, 194, 760, 8376, 3906, 6059, 702, 474, 7674, 7411, 3250, 9402, 3639, 9449, 9876, 7813, 9951};
+	int max_index = 19;
+	bubblesort(num, max_index);
+	printarray(num, max_index);
+	system("PAUSE");
+	return 0;
+}
+int bubblesort(int num[],int max_index)
+{
+	for (int i = 0; i <= max_index; i++)
+	{
+		for (int j = 0; j <= max_index - i - 1; j++)
+		{
+			if (num[j] > num[j + 1])
+			{
+				swap(&num[j], &num[j + 1]);
+			}
+		}
+	}
+}
+void swap(int *element1Ptr, int *element2Ptr)
+{
+	int temp = *element1Ptr;
+	*element1Ptr = *element2Ptr;
+	*element2Ptr = temp;
+
+	/*
+	  流程如下:
+	    temp儲存element1Ptr指向變數的值(就是temp = num[j],儲存大的值)
+		element2Ptr指向變數的值取代element1Ptr指向變數的值(就是num[j] = num[j+1],把小的放到左邊)
+		temp取代element2Ptr指向變數的值(就是num[j+1] = temp,把大的放到右邊)
+	*/
+}
+void printarray(int num[], int max_index)
+{
+	for (int i = 0; i <= max_index; i++)
+	{
+		printf("%d ", num[i]);
+	}
+	printf("\n");
+}
+

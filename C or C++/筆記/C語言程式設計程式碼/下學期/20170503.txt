@@ -1,0 +1,59 @@
+﻿#include <iostream>
+#include <cstdlib>
+
+using namespace std;
+
+
+int volume(int length);
+double volume(int radius, int height);
+int volume(int length, int wide, int height);
+
+int main()
+{
+	int length = 0,radius = 0,wide = 0 ,height = 0;
+	
+	cout << "請輸入長:";
+	cin >> length;
+
+	cout << "請輸入半徑:";
+	cin >> radius;
+
+	cout << "請輸入寬:";
+	cin >> wide;
+
+	cout << "請輸入高:";
+	cin >> height;
+
+	if (length != 0 && radius == 0 && wide == 0 && height == 0)
+	{
+		cout << volume(length);
+	}
+	else if (length == 0 && radius != 0 && wide == 0 && height != 0)
+	{
+		cout << volume(radius, height);
+	}
+	else
+	{
+		cout << volume(length, wide, height);
+	}
+
+	system("PAUSE");
+	return 0;
+}
+
+int volume(int length)
+{
+	return length * length * length;
+}
+
+double volume(int radius, int height)
+{
+	return radius * radius * 3.14 * height;
+}
+
+
+int volume(int length, int wide,int height)
+{
+	return length * wide * height;
+}
+

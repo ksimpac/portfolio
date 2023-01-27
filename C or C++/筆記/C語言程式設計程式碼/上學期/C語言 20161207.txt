@@ -1,0 +1,56 @@
+﻿#include <stdio.h>
+#include <stdlib.h>
+
+float Average(int a[], int size);
+void Bubble_sort(int a[], int size);
+
+int main(void)
+{
+	
+	int a[10];
+
+	printf("請輸入十個整數值:\n");
+
+	for (int I = 0; I <= 9; I++) //輸入10個值
+	{
+		scanf_s("%d", &a[I]);
+	}
+
+	printf("平均值為:%f\n", Average(a, 10)); //印出平均值
+	Bubble_sort(a,10); //陣列排序(氣泡排序法)
+	
+	for (int J = 0; J <= 9; J++) //印出a陣列所有值
+	{
+		printf("%d ", a[J]);
+	}
+
+	system("PAUSE");
+
+	return 0;
+}
+float Average(int a[], int size) //計算平均值
+{
+	float total = 0;
+
+	for (int I = 0; I < size; I++) //把a陣列所有值加起來
+	{
+		total = total + a[I];
+	}
+	
+	return total / (float)10; //回傳平均值
+}
+void Bubble_sort(int a[], int size)
+{
+	for (int I = 1; I <= size - 1; I++) //最多要跑size - 1次氣泡排序
+	{
+		for (int J = 0; J < size - I; J++) 
+		{
+			if (a[J] < a[J + 1]) //兩兩比較 大的往左移 小的往右移
+			{
+				int temp = a[J];
+				a[J] = a[J + 1];
+				a[J + 1] = temp;
+			}
+		}
+	}
+}

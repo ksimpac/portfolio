@@ -1,0 +1,11 @@
+D:\Projects\LCM\bin\Debug\LCM.exe
+D:\Projects\LCM\bin\Debug\LCM.pdb
+D:\Projects\LCM\bin\Debug\LCM.xml
+D:\Projects\LCM\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\LCM\obj\x86\Debug\LCM.Form1.resources
+D:\Projects\LCM\obj\x86\Debug\LCM.Resources.resources
+D:\Projects\LCM\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\LCM\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\LCM\obj\x86\Debug\LCM.exe
+D:\Projects\LCM\obj\x86\Debug\LCM.xml
+D:\Projects\LCM\obj\x86\Debug\LCM.pdb

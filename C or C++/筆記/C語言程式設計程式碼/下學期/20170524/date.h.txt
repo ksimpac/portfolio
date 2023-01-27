@@ -1,0 +1,17 @@
+﻿#ifndef date_h
+#define date_h
+
+class date
+{
+   public:
+	   date();
+	   void setDate(int, int, int);
+	   void printDate();
+	   bool print;
+   private:
+	   unsigned int year;
+	   unsigned int mouth;
+	   unsigned int day;
+};
+
+#endif

@@ -1,0 +1,12 @@
+C:\Users\MLVS\Desktop\程式試題\C#\字串處理\字串處理\bin\Debug\字串處理.exe.config
+C:\Users\MLVS\Desktop\程式試題\C#\字串處理\字串處理\bin\Debug\字串處理.exe
+C:\Users\MLVS\Desktop\程式試題\C#\字串處理\字串處理\bin\Debug\字串處理.pdb
+C:\Users\MLVS\Desktop\程式試題\C#\字串處理\字串處理\obj\Debug\字串處理.csprojResolveAssemblyReference.cache
+C:\Users\MLVS\Desktop\程式試題\C#\字串處理\字串處理\obj\Debug\字串處理.Form1.resources
+C:\Users\MLVS\Desktop\程式試題\C#\字串處理\字串處理\obj\Debug\字串處理.Properties.Resources.resources
+C:\Users\MLVS\Desktop\程式試題\C#\字串處理\字串處理\obj\Debug\字串處理.csproj.GenerateResource.Cache
+C:\Users\MLVS\Desktop\程式試題\C#\字串處理\字串處理\obj\Debug\字串處理.exe
+C:\Users\MLVS\Desktop\程式試題\C#\字串處理\字串處理\obj\Debug\字串處理.pdb
+E:\Projects\C#寫的題目\字串處理\字串處理\bin\Debug\字串處理.exe.config
+E:\Projects\C#寫的題目\字串處理\字串處理\obj\Debug\字串處理.exe
+E:\Projects\C#寫的題目\字串處理\字串處理\obj\Debug\字串處理.pdb

@@ -1,0 +1,9 @@
+C:\Users\ksimpac\Desktop\DP301-31-徐國邦\第一題\第一題\bin\Debug\第一題.exe
+C:\Users\ksimpac\Desktop\DP301-31-徐國邦\第一題\第一題\bin\Debug\第一題.pdb
+C:\Users\ksimpac\Desktop\DP301-31-徐國邦\第一題\第一題\bin\Debug\第一題.xml
+C:\Users\ksimpac\Desktop\DP301-31-徐國邦\第一題\第一題\obj\x86\Debug\第一題.Form1.resources
+C:\Users\ksimpac\Desktop\DP301-31-徐國邦\第一題\第一題\obj\x86\Debug\第一題.Resources.resources
+C:\Users\ksimpac\Desktop\DP301-31-徐國邦\第一題\第一題\obj\x86\Debug\第一題.vbproj.GenerateResource.Cache
+C:\Users\ksimpac\Desktop\DP301-31-徐國邦\第一題\第一題\obj\x86\Debug\第一題.exe
+C:\Users\ksimpac\Desktop\DP301-31-徐國邦\第一題\第一題\obj\x86\Debug\第一題.xml
+C:\Users\ksimpac\Desktop\DP301-31-徐國邦\第一題\第一題\obj\x86\Debug\第一題.pdb

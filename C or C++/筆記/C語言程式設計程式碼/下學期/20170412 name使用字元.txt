@@ -1,0 +1,100 @@
+﻿#include <stdio.h>
+#include <stdlib.h>
+
+struct listNode
+{
+	int ID;
+	char name;
+	struct listNode *nextPtr;
+};
+
+typedef struct listNode ListNode;
+typedef ListNode *ListNodePtr;
+
+void insert(ListNodePtr *sPtr, int ID, char name); //印出資料
+void printList(ListNodePtr currentPtr);
+
+int main(void)
+{
+	
+	ListNodePtr startPtr = NULL;
+	char name = ' ';
+	char empty = ' ';
+	int ID = 0;
+
+	for (int i = 1; i < 6; i++) //輸入資料
+	{
+		printf("請輸入ID:");
+		scanf_s("%d", &ID);
+
+		scanf_s("%c", &empty); //吸收enter
+
+		printf("%s", "請輸入姓名:");
+		scanf_s("%c", &name, 1);
+
+		scanf_s("%c", &empty);//吸收enter
+
+		insert(&startPtr, ID,name);
+		printf("\n");
+	}
+
+	printList(startPtr); //印出資料
+	printf("\n");
+	system("PAUSE");
+	return 0;
+
+}
+void insert(ListNodePtr *sPtr, int ID, char name)
+{
+	ListNodePtr newPtr = malloc(sizeof(ListNode));
+
+	if (newPtr != NULL)
+	{
+		newPtr->ID = ID;
+		newPtr->name = name;
+		newPtr->nextPtr = NULL;
+
+		ListNodePtr previousPtr = NULL;
+		ListNodePtr currentPtr = *sPtr;
+
+		while (currentPtr != NULL && ID > currentPtr->ID)
+		{
+			previousPtr = currentPtr;
+			currentPtr = currentPtr->nextPtr;
+		}
+
+		if (previousPtr == NULL)
+		{
+			newPtr->nextPtr = *sPtr;
+			*sPtr = newPtr;
+		}
+		else
+		{
+			previousPtr->nextPtr = newPtr;
+			newPtr->nextPtr = currentPtr;
+		}
+
+	}
+	else
+	{
+		printf("記憶體配置失敗");
+	}
+}
+void printList(ListNodePtr currentPtr)
+{
+	if (currentPtr == NULL)
+	{
+		printf("鏈結串列目前裡面沒有元素");
+	}
+	else
+	{
+		printf("目前鏈結串列裡面有的元素是:");
+
+		while (currentPtr != NULL)
+		{
+			printf("ID:%d 姓名:%c --->\n", currentPtr->ID, currentPtr->name);
+			currentPtr = currentPtr->nextPtr;
+		}
+		
+	}
+}

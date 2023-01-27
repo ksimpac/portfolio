@@ -1,0 +1,9 @@
+E:\Projects\基隆商工題目\第二十一屆\古寺幾僧\bin\Debug\古寺幾僧.exe
+E:\Projects\基隆商工題目\第二十一屆\古寺幾僧\bin\Debug\古寺幾僧.pdb
+E:\Projects\基隆商工題目\第二十一屆\古寺幾僧\bin\Debug\古寺幾僧.xml
+E:\Projects\基隆商工題目\第二十一屆\古寺幾僧\obj\x86\Debug\古寺幾僧.Form1.resources
+E:\Projects\基隆商工題目\第二十一屆\古寺幾僧\obj\x86\Debug\古寺幾僧.Resources.resources
+E:\Projects\基隆商工題目\第二十一屆\古寺幾僧\obj\x86\Debug\古寺幾僧.vbproj.GenerateResource.Cache
+E:\Projects\基隆商工題目\第二十一屆\古寺幾僧\obj\x86\Debug\古寺幾僧.exe
+E:\Projects\基隆商工題目\第二十一屆\古寺幾僧\obj\x86\Debug\古寺幾僧.xml
+E:\Projects\基隆商工題目\第二十一屆\古寺幾僧\obj\x86\Debug\古寺幾僧.pdb

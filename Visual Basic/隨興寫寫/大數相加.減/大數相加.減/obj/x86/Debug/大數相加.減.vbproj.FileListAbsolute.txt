@@ -1,0 +1,9 @@
+E:\Projects\隨興寫寫\大數相加.減\大數相加.減\bin\Debug\大數相加.減.exe
+E:\Projects\隨興寫寫\大數相加.減\大數相加.減\bin\Debug\大數相加.減.pdb
+E:\Projects\隨興寫寫\大數相加.減\大數相加.減\bin\Debug\大數相加.減.xml
+E:\Projects\隨興寫寫\大數相加.減\大數相加.減\obj\x86\Debug\大數相加.減.Form1.resources
+E:\Projects\隨興寫寫\大數相加.減\大數相加.減\obj\x86\Debug\大數相加.減.Resources.resources
+E:\Projects\隨興寫寫\大數相加.減\大數相加.減\obj\x86\Debug\大數相加.減.vbproj.GenerateResource.Cache
+E:\Projects\隨興寫寫\大數相加.減\大數相加.減\obj\x86\Debug\大數相加.減.exe
+E:\Projects\隨興寫寫\大數相加.減\大數相加.減\obj\x86\Debug\大數相加.減.xml
+E:\Projects\隨興寫寫\大數相加.減\大數相加.減\obj\x86\Debug\大數相加.減.pdb

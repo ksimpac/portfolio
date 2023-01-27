@@ -1,0 +1,11 @@
+C:\Users\mlvs\Desktop\p41\p41\bin\Debug\p41.exe
+C:\Users\mlvs\Desktop\p41\p41\bin\Debug\p41.pdb
+C:\Users\mlvs\Desktop\p41\p41\bin\Debug\p41.xml
+C:\Users\mlvs\Desktop\p41\p41\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mlvs\Desktop\p41\p41\obj\x86\Debug\p41.Form1.resources
+C:\Users\mlvs\Desktop\p41\p41\obj\x86\Debug\p41.Resources.resources
+C:\Users\mlvs\Desktop\p41\p41\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mlvs\Desktop\p41\p41\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mlvs\Desktop\p41\p41\obj\x86\Debug\p41.exe
+C:\Users\mlvs\Desktop\p41\p41\obj\x86\Debug\p41.xml
+C:\Users\mlvs\Desktop\p41\p41\obj\x86\Debug\p41.pdb

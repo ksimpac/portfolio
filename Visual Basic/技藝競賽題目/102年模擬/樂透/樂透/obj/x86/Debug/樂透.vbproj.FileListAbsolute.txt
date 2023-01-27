@@ -1,0 +1,9 @@
+C:\Users\mlvs\Desktop\程式試題\技藝競賽題目\102年模擬\樂透\樂透\bin\Debug\樂透.exe
+C:\Users\mlvs\Desktop\程式試題\技藝競賽題目\102年模擬\樂透\樂透\bin\Debug\樂透.pdb
+C:\Users\mlvs\Desktop\程式試題\技藝競賽題目\102年模擬\樂透\樂透\bin\Debug\樂透.xml
+C:\Users\mlvs\Desktop\程式試題\技藝競賽題目\102年模擬\樂透\樂透\obj\x86\Debug\樂透.Form1.resources
+C:\Users\mlvs\Desktop\程式試題\技藝競賽題目\102年模擬\樂透\樂透\obj\x86\Debug\樂透.Resources.resources
+C:\Users\mlvs\Desktop\程式試題\技藝競賽題目\102年模擬\樂透\樂透\obj\x86\Debug\樂透.vbproj.GenerateResource.Cache
+C:\Users\mlvs\Desktop\程式試題\技藝競賽題目\102年模擬\樂透\樂透\obj\x86\Debug\樂透.exe
+C:\Users\mlvs\Desktop\程式試題\技藝競賽題目\102年模擬\樂透\樂透\obj\x86\Debug\樂透.xml
+C:\Users\mlvs\Desktop\程式試題\技藝競賽題目\102年模擬\樂透\樂透\obj\x86\Debug\樂透.pdb

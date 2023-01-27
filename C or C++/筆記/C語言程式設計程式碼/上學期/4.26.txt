@@ -1,0 +1,32 @@
+﻿#include <stdio.h>
+#include <stdlib.h>
+
+int main(void)
+{
+	double pi = 0.0, Denominator = 1;
+	int term = 0; 
+	/* Denominator 分母 
+	   term 控制算到第幾項 */
+
+	printf("算到第幾項?");
+	scanf_s("%d", &term);
+	
+	for (int i = 1; i <= term;i++)
+	{
+		if (i % 2 == 1) //奇數項
+		{
+			pi = pi + 4 / Denominator;
+			Denominator = Denominator + 2;
+		}
+		else //偶數項
+		{
+			pi = pi - 4 / Denominator;
+			Denominator = Denominator + 2;
+		}
+
+	}
+
+	printf("%f\n", pi); 
+	system("PAUSE");
+	return 0;
+}

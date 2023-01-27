@@ -1,0 +1,9 @@
+C:\Users\ksimpac\Desktop\DP301-31-徐國邦\第三題\第三題\bin\Debug\第三題.exe
+C:\Users\ksimpac\Desktop\DP301-31-徐國邦\第三題\第三題\bin\Debug\第三題.pdb
+C:\Users\ksimpac\Desktop\DP301-31-徐國邦\第三題\第三題\bin\Debug\第三題.xml
+C:\Users\ksimpac\Desktop\DP301-31-徐國邦\第三題\第三題\obj\x86\Debug\第三題.Form1.resources
+C:\Users\ksimpac\Desktop\DP301-31-徐國邦\第三題\第三題\obj\x86\Debug\第三題.Resources.resources
+C:\Users\ksimpac\Desktop\DP301-31-徐國邦\第三題\第三題\obj\x86\Debug\第三題.vbproj.GenerateResource.Cache
+C:\Users\ksimpac\Desktop\DP301-31-徐國邦\第三題\第三題\obj\x86\Debug\第三題.exe
+C:\Users\ksimpac\Desktop\DP301-31-徐國邦\第三題\第三題\obj\x86\Debug\第三題.xml
+C:\Users\ksimpac\Desktop\DP301-31-徐國邦\第三題\第三題\obj\x86\Debug\第三題.pdb

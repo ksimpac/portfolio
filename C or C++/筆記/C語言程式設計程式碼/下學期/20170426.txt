@@ -1,0 +1,77 @@
+﻿#include <stdio.h>
+#include <stdlib.h>
+
+struct stackData
+{
+	char data;
+	struct stackData *nextPtr;
+};
+
+typedef struct stackData Stack;
+typedef Stack *StackPtr;
+
+void push(StackPtr *topPtr,char data);
+char pop(StackPtr *topPtr);
+void print(char data);
+
+int main(void)
+{
+	StackPtr startPtr = NULL;
+	
+	while (1)
+	{
+		printf("請輸入字元:");
+		char input = ' ',temp = ' ';
+		scanf_s("%c", &input,1);
+		scanf_s("%c", &temp, 1); //處理Enter
+
+		if (input == '0')
+		{
+			while (startPtr != NULL)
+			{
+				print(pop(&startPtr));
+			}
+
+			printf("\n");
+			break;
+		}
+
+		push(&startPtr, input);
+			
+	}
+
+	system("PAUSE");
+	return 0;
+}
+
+void push(StackPtr *topPtr, char data)
+{
+	StackPtr newPtr = malloc(sizeof(Stack));
+
+	if (newPtr != NULL)
+	{
+		newPtr->data = data;
+		newPtr->nextPtr = *topPtr;
+		*topPtr = newPtr;
+	}
+	else
+	{
+		printf("記憶體配置失敗\n");
+	}
+}
+
+char pop(StackPtr *topPtr)
+{
+	if (*topPtr != NULL)
+	{
+		StackPtr tempPtr = *topPtr;
+		char popValue = (*topPtr)->data;
+		*topPtr = (*topPtr)->nextPtr;
+		return popValue;
+	}
+}
+
+void print(char data)
+{
+	printf("%c ", data);
+}

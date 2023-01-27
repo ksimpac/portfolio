@@ -1,0 +1,9 @@
+D:\Projects\技藝競賽題目\101年正式\身分證\身分證\bin\Debug\身分證.exe
+D:\Projects\技藝競賽題目\101年正式\身分證\身分證\bin\Debug\身分證.pdb
+D:\Projects\技藝競賽題目\101年正式\身分證\身分證\bin\Debug\身分證.xml
+D:\Projects\技藝競賽題目\101年正式\身分證\身分證\obj\x86\Debug\身分證.Form1.resources
+D:\Projects\技藝競賽題目\101年正式\身分證\身分證\obj\x86\Debug\身分證.Resources.resources
+D:\Projects\技藝競賽題目\101年正式\身分證\身分證\obj\x86\Debug\身分證.vbproj.GenerateResource.Cache
+D:\Projects\技藝競賽題目\101年正式\身分證\身分證\obj\x86\Debug\身分證.exe
+D:\Projects\技藝競賽題目\101年正式\身分證\身分證\obj\x86\Debug\身分證.xml
+D:\Projects\技藝競賽題目\101年正式\身分證\身分證\obj\x86\Debug\身分證.pdb

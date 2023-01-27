@@ -1,0 +1,27 @@
+C:\Users\User\AppData\Local\Temporary Projects\5\bin\Debug\5.exe
+C:\Users\User\AppData\Local\Temporary Projects\5\bin\Debug\5.pdb
+C:\Users\User\AppData\Local\Temporary Projects\5\bin\Debug\5.xml
+C:\Users\User\AppData\Local\Temporary Projects\5\obj\x86\Debug\_5.Form1.resources
+C:\Users\User\AppData\Local\Temporary Projects\5\obj\x86\Debug\_5.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\5\obj\x86\Debug\5.vbproj.GenerateResource.Cache
+C:\Users\User\AppData\Local\Temporary Projects\5\obj\x86\Debug\5.exe
+C:\Users\User\AppData\Local\Temporary Projects\5\obj\x86\Debug\5.xml
+C:\Users\User\AppData\Local\Temporary Projects\5\obj\x86\Debug\5.pdb
+C:\Users\User\Desktop\資201 31 徐國邦\5\5\obj\x86\Debug\5.exe
+C:\Users\User\Desktop\資201 31 徐國邦\5\5\obj\x86\Debug\5.xml
+C:\Users\User\Desktop\資201 31 徐國邦\5\5\obj\x86\Debug\5.pdb
+C:\Users\User\Desktop\資201 31 徐國邦\5\5\bin\Debug\5.exe
+C:\Users\User\Desktop\資201 31 徐國邦\5\5\bin\Debug\5.pdb
+C:\Users\User\Desktop\資201 31 徐國邦\5\5\bin\Debug\5.xml
+C:\Users\User\Desktop\資201 31 徐國邦\5\5\obj\x86\Debug\_5.Form1.resources
+C:\Users\User\Desktop\資201 31 徐國邦\5\5\obj\x86\Debug\_5.Resources.resources
+C:\Users\User\Desktop\資201 31 徐國邦\5\5\obj\x86\Debug\5.vbproj.GenerateResource.Cache
+E:\Projects\程式校內比賽\資201 31 徐國邦\5\5\obj\x86\Debug\5.exe
+E:\Projects\程式校內比賽\資201 31 徐國邦\5\5\obj\x86\Debug\5.xml
+E:\Projects\程式校內比賽\資201 31 徐國邦\5\5\obj\x86\Debug\5.pdb
+E:\Projects\程式校內比賽\資201 31 徐國邦\5\5\bin\Debug\5.exe
+E:\Projects\程式校內比賽\資201 31 徐國邦\5\5\bin\Debug\5.pdb
+E:\Projects\程式校內比賽\資201 31 徐國邦\5\5\bin\Debug\5.xml
+E:\Projects\程式校內比賽\資201 31 徐國邦\5\5\obj\x86\Debug\_5.Form1.resources
+E:\Projects\程式校內比賽\資201 31 徐國邦\5\5\obj\x86\Debug\_5.Resources.resources
+E:\Projects\程式校內比賽\資201 31 徐國邦\5\5\obj\x86\Debug\5.vbproj.GenerateResource.Cache

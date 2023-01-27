@@ -1,0 +1,14 @@
+C:\Users\mlvs\Desktop\程式\p12\進位判斷\bin\Debug\進位判斷.exe
+C:\Users\mlvs\Desktop\程式\p12\進位判斷\bin\Debug\進位判斷.pdb
+C:\Users\mlvs\Desktop\程式\p12\進位判斷\bin\Debug\進位判斷.xml
+C:\Users\mlvs\Desktop\程式\p12\進位判斷\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mlvs\Desktop\程式\p12\進位判斷\obj\x86\Debug\進位判斷.Form1.resources
+C:\Users\mlvs\Desktop\程式\p12\進位判斷\obj\x86\Debug\進位判斷.Resources.resources
+C:\Users\mlvs\Desktop\程式\p12\進位判斷\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mlvs\Desktop\程式\p12\進位判斷\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mlvs\Desktop\程式\p12\進位判斷\obj\x86\Debug\進位判斷.exe
+C:\Users\mlvs\Desktop\程式\p12\進位判斷\obj\x86\Debug\進位判斷.xml
+C:\Users\mlvs\Desktop\程式\p12\進位判斷\obj\x86\Debug\進位判斷.pdb
+E:\Projects\程式設計選手模擬試驗\專案檔\p12\進位判斷\obj\x86\Debug\進位判斷.exe
+E:\Projects\程式設計選手模擬試驗\專案檔\p12\進位判斷\obj\x86\Debug\進位判斷.xml
+E:\Projects\程式設計選手模擬試驗\專案檔\p12\進位判斷\obj\x86\Debug\進位判斷.pdb

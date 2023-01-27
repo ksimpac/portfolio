@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "樹葉節點到根節點之路徑，中間所經過的節點集合", "樹葉節點到根節點之路徑，中間所經過的節點集合\樹葉節點到根節點之路徑，中間所經過的節點集合.vbproj", "{F4378DFB-29C4-4CBC-BACC-59B4A4807186}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4378DFB-29C4-4CBC-BACC-59B4A4807186}.Debug|x86.ActiveCfg = Debug|x86
+		{F4378DFB-29C4-4CBC-BACC-59B4A4807186}.Debug|x86.Build.0 = Debug|x86
+		{F4378DFB-29C4-4CBC-BACC-59B4A4807186}.Release|x86.ActiveCfg = Release|x86
+		{F4378DFB-29C4-4CBC-BACC-59B4A4807186}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

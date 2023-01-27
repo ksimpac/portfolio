@@ -1,0 +1,9 @@
+E:\Projects\技藝競賽題目\99年正式\p31\p31\bin\Debug\p31.exe
+E:\Projects\技藝競賽題目\99年正式\p31\p31\bin\Debug\p31.pdb
+E:\Projects\技藝競賽題目\99年正式\p31\p31\bin\Debug\p31.xml
+E:\Projects\技藝競賽題目\99年正式\p31\p31\obj\x86\Debug\p31.Form1.resources
+E:\Projects\技藝競賽題目\99年正式\p31\p31\obj\x86\Debug\p31.Resources.resources
+E:\Projects\技藝競賽題目\99年正式\p31\p31\obj\x86\Debug\p31.vbproj.GenerateResource.Cache
+E:\Projects\技藝競賽題目\99年正式\p31\p31\obj\x86\Debug\p31.exe
+E:\Projects\技藝競賽題目\99年正式\p31\p31\obj\x86\Debug\p31.xml
+E:\Projects\技藝競賽題目\99年正式\p31\p31\obj\x86\Debug\p31.pdb

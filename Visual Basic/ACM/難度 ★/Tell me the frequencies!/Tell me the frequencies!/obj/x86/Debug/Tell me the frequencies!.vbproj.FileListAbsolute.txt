@@ -1,0 +1,9 @@
+C:\Users\MLVS\Desktop\程式試題\ACM\Tell me the frequencies!\Tell me the frequencies!\bin\Debug\Tell me the frequencies!.exe
+C:\Users\MLVS\Desktop\程式試題\ACM\Tell me the frequencies!\Tell me the frequencies!\bin\Debug\Tell me the frequencies!.pdb
+C:\Users\MLVS\Desktop\程式試題\ACM\Tell me the frequencies!\Tell me the frequencies!\bin\Debug\Tell me the frequencies!.xml
+C:\Users\MLVS\Desktop\程式試題\ACM\Tell me the frequencies!\Tell me the frequencies!\obj\x86\Debug\Tell_me_the_frequencies_.Form1.resources
+C:\Users\MLVS\Desktop\程式試題\ACM\Tell me the frequencies!\Tell me the frequencies!\obj\x86\Debug\Tell_me_the_frequencies_.Resources.resources
+C:\Users\MLVS\Desktop\程式試題\ACM\Tell me the frequencies!\Tell me the frequencies!\obj\x86\Debug\Tell me the frequencies!.vbproj.GenerateResource.Cache
+C:\Users\MLVS\Desktop\程式試題\ACM\Tell me the frequencies!\Tell me the frequencies!\obj\x86\Debug\Tell me the frequencies!.exe
+C:\Users\MLVS\Desktop\程式試題\ACM\Tell me the frequencies!\Tell me the frequencies!\obj\x86\Debug\Tell me the frequencies!.xml
+C:\Users\MLVS\Desktop\程式試題\ACM\Tell me the frequencies!\Tell me the frequencies!\obj\x86\Debug\Tell me the frequencies!.pdb

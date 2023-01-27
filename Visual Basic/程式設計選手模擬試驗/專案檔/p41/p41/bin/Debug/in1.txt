@@ -1,0 +1,14 @@
+Insert 4
+Inquire 1
+Insert 1
+Inquire 2
+Insert -3
+Insert 3
+Insert 7
+Insert -99
+Inquire 4
+Clean
+Insert 3
+Inquire 2
+Inquire 1
+END

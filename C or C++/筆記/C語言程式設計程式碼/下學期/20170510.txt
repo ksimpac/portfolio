@@ -1,0 +1,81 @@
+﻿#include <iostream>
+#include <string>
+
+using namespace std;
+
+class dog
+{
+public:
+
+	void set_pet_name(string name)
+	{
+		petname = name;
+	}
+
+	string get_pet_name()
+	{
+		return petname;
+	}
+
+	void set_age(int dog_age)
+	{
+		age = dog_age;
+	}
+
+	int get_age()
+	{
+		return age;
+	}
+
+	bool check_age(int pet_age)
+	{
+		if (pet_age > 20)
+		{
+			cout << "狗的年齡不超過21歲，請重新輸入" << endl;
+			return false;
+		}
+		else
+		{
+			return true;
+		}
+
+	}
+
+private:
+
+	string petname;
+	int age;
+};
+
+
+
+int main(void)
+{
+	dog mutt;
+	string dog_name;
+	int age;
+
+	bool check = false;
+
+	cout << "請輸入狗的名子:";
+	cin >> dog_name;
+
+	mutt.set_pet_name(dog_name);
+
+	while (check != true)
+	{
+		cout << "請輸入狗的年齡:";
+		cin >> age;
+
+		check = mutt.check_age(age);
+	}
+
+	mutt.set_age(age);
+
+	cout << "狗的資料:" << endl;
+	cout << "名子:" << mutt.get_pet_name() << endl;
+	cout << "年齡:" << mutt.get_age() << endl;
+
+	system("PAUSE");
+	return 0;
+}

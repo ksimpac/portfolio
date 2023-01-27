@@ -1,0 +1,22 @@
+C:\Users\MLVS\AppData\Local\Temporary Projects\p22\bin\Debug\p22.exe
+C:\Users\MLVS\AppData\Local\Temporary Projects\p22\bin\Debug\p22.pdb
+C:\Users\MLVS\AppData\Local\Temporary Projects\p22\bin\Debug\p22.xml
+C:\Users\MLVS\AppData\Local\Temporary Projects\p22\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MLVS\AppData\Local\Temporary Projects\p22\obj\x86\Debug\p22.Form1.resources
+C:\Users\MLVS\AppData\Local\Temporary Projects\p22\obj\x86\Debug\p22.Resources.resources
+C:\Users\MLVS\AppData\Local\Temporary Projects\p22\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MLVS\AppData\Local\Temporary Projects\p22\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MLVS\AppData\Local\Temporary Projects\p22\obj\x86\Debug\p22.exe
+C:\Users\MLVS\AppData\Local\Temporary Projects\p22\obj\x86\Debug\p22.xml
+C:\Users\MLVS\AppData\Local\Temporary Projects\p22\obj\x86\Debug\p22.pdb
+C:\Users\MLVS\Desktop\p22\p22\obj\x86\Debug\p22.exe
+C:\Users\MLVS\Desktop\p22\p22\obj\x86\Debug\p22.xml
+C:\Users\MLVS\Desktop\p22\p22\obj\x86\Debug\p22.pdb
+C:\Users\MLVS\Desktop\p22\p22\bin\Debug\p22.exe
+C:\Users\MLVS\Desktop\p22\p22\bin\Debug\p22.pdb
+C:\Users\MLVS\Desktop\p22\p22\bin\Debug\p22.xml
+C:\Users\MLVS\Desktop\p22\p22\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MLVS\Desktop\p22\p22\obj\x86\Debug\p22.Form1.resources
+C:\Users\MLVS\Desktop\p22\p22\obj\x86\Debug\p22.Resources.resources
+C:\Users\MLVS\Desktop\p22\p22\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MLVS\Desktop\p22\p22\obj\x86\Debug\GenerateResource.write.1.tlog

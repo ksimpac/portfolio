@@ -1,0 +1,14 @@
+C:\Users\MLVS\Desktop\程式試題\技藝競賽題目\99年正式\p11\p11\bin\Debug\p11.exe
+C:\Users\MLVS\Desktop\程式試題\技藝競賽題目\99年正式\p11\p11\bin\Debug\p11.pdb
+C:\Users\MLVS\Desktop\程式試題\技藝競賽題目\99年正式\p11\p11\bin\Debug\p11.xml
+C:\Users\MLVS\Desktop\程式試題\技藝競賽題目\99年正式\p11\p11\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MLVS\Desktop\程式試題\技藝競賽題目\99年正式\p11\p11\obj\x86\Debug\p11.Form1.resources
+C:\Users\MLVS\Desktop\程式試題\技藝競賽題目\99年正式\p11\p11\obj\x86\Debug\p11.Resources.resources
+C:\Users\MLVS\Desktop\程式試題\技藝競賽題目\99年正式\p11\p11\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MLVS\Desktop\程式試題\技藝競賽題目\99年正式\p11\p11\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MLVS\Desktop\程式試題\技藝競賽題目\99年正式\p11\p11\obj\x86\Debug\p11.exe
+C:\Users\MLVS\Desktop\程式試題\技藝競賽題目\99年正式\p11\p11\obj\x86\Debug\p11.xml
+C:\Users\MLVS\Desktop\程式試題\技藝競賽題目\99年正式\p11\p11\obj\x86\Debug\p11.pdb
+E:\Projects\技藝競賽題目\99年正式\p11\p11\obj\x86\Debug\p11.exe
+E:\Projects\技藝競賽題目\99年正式\p11\p11\obj\x86\Debug\p11.xml
+E:\Projects\技藝競賽題目\99年正式\p11\p11\obj\x86\Debug\p11.pdb

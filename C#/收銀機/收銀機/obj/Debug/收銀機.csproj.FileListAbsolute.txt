@@ -1,0 +1,9 @@
+E:\Projects\隨興寫寫\C#\收銀機\收銀機\bin\Debug\收銀機.exe.config
+E:\Projects\隨興寫寫\C#\收銀機\收銀機\bin\Debug\收銀機.exe
+E:\Projects\隨興寫寫\C#\收銀機\收銀機\bin\Debug\收銀機.pdb
+E:\Projects\隨興寫寫\C#\收銀機\收銀機\obj\Debug\收銀機.csprojResolveAssemblyReference.cache
+E:\Projects\隨興寫寫\C#\收銀機\收銀機\obj\Debug\收銀機.Form1.resources
+E:\Projects\隨興寫寫\C#\收銀機\收銀機\obj\Debug\收銀機.Properties.Resources.resources
+E:\Projects\隨興寫寫\C#\收銀機\收銀機\obj\Debug\收銀機.csproj.GenerateResource.Cache
+E:\Projects\隨興寫寫\C#\收銀機\收銀機\obj\Debug\收銀機.exe
+E:\Projects\隨興寫寫\C#\收銀機\收銀機\obj\Debug\收銀機.pdb

@@ -1,0 +1,9 @@
+D:\Projects\大學生程式解題系統\比賽題目\出團GoGoGo\出團GoGoGo\bin\Debug\出團GoGoGo.exe
+D:\Projects\大學生程式解題系統\比賽題目\出團GoGoGo\出團GoGoGo\bin\Debug\出團GoGoGo.pdb
+D:\Projects\大學生程式解題系統\比賽題目\出團GoGoGo\出團GoGoGo\bin\Debug\出團GoGoGo.xml
+D:\Projects\大學生程式解題系統\比賽題目\出團GoGoGo\出團GoGoGo\obj\x86\Debug\出團GoGoGo.Form1.resources
+D:\Projects\大學生程式解題系統\比賽題目\出團GoGoGo\出團GoGoGo\obj\x86\Debug\出團GoGoGo.Resources.resources
+D:\Projects\大學生程式解題系統\比賽題目\出團GoGoGo\出團GoGoGo\obj\x86\Debug\出團GoGoGo.vbproj.GenerateResource.Cache
+D:\Projects\大學生程式解題系統\比賽題目\出團GoGoGo\出團GoGoGo\obj\x86\Debug\出團GoGoGo.exe
+D:\Projects\大學生程式解題系統\比賽題目\出團GoGoGo\出團GoGoGo\obj\x86\Debug\出團GoGoGo.xml
+D:\Projects\大學生程式解題系統\比賽題目\出團GoGoGo\出團GoGoGo\obj\x86\Debug\出團GoGoGo.pdb

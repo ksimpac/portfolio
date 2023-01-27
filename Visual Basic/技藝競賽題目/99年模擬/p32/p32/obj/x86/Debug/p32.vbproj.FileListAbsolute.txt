@@ -1,0 +1,9 @@
+E:\Projects\技藝競賽題目\99年模擬\p32\p32\bin\Debug\p32.exe
+E:\Projects\技藝競賽題目\99年模擬\p32\p32\bin\Debug\p32.pdb
+E:\Projects\技藝競賽題目\99年模擬\p32\p32\bin\Debug\p32.xml
+E:\Projects\技藝競賽題目\99年模擬\p32\p32\obj\x86\Debug\p32.Form1.resources
+E:\Projects\技藝競賽題目\99年模擬\p32\p32\obj\x86\Debug\p32.Resources.resources
+E:\Projects\技藝競賽題目\99年模擬\p32\p32\obj\x86\Debug\p32.vbproj.GenerateResource.Cache
+E:\Projects\技藝競賽題目\99年模擬\p32\p32\obj\x86\Debug\p32.exe
+E:\Projects\技藝競賽題目\99年模擬\p32\p32\obj\x86\Debug\p32.xml
+E:\Projects\技藝競賽題目\99年模擬\p32\p32\obj\x86\Debug\p32.pdb

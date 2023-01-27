@@ -1,0 +1,16 @@
+﻿#include <string>
+#include <iostream>
+
+class pet
+{
+public:
+	pet(std::string, int);
+	std::string get_pet_name();
+	int get_age();
+	void set_pet_name(std::string name);
+	void set_age(int);
+	bool check_age();
+private:
+	std::string petname;
+	int age;
+};

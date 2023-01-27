@@ -1,0 +1,6 @@
+import java.util.Scanner;
+
+public class Pokemon_Go_Ball
+{
+	Scanner input = new Scanner(System.in);
+}

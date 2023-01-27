@@ -1,0 +1,11 @@
+C:\Users\MLVS\Desktop\程式試題\技藝競賽題目\101模擬\p12\p12\bin\Debug\p12.exe
+C:\Users\MLVS\Desktop\程式試題\技藝競賽題目\101模擬\p12\p12\bin\Debug\p12.pdb
+C:\Users\MLVS\Desktop\程式試題\技藝競賽題目\101模擬\p12\p12\bin\Debug\p12.xml
+C:\Users\MLVS\Desktop\程式試題\技藝競賽題目\101模擬\p12\p12\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MLVS\Desktop\程式試題\技藝競賽題目\101模擬\p12\p12\obj\x86\Debug\p12.Form1.resources
+C:\Users\MLVS\Desktop\程式試題\技藝競賽題目\101模擬\p12\p12\obj\x86\Debug\p12.Resources.resources
+C:\Users\MLVS\Desktop\程式試題\技藝競賽題目\101模擬\p12\p12\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MLVS\Desktop\程式試題\技藝競賽題目\101模擬\p12\p12\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MLVS\Desktop\程式試題\技藝競賽題目\101模擬\p12\p12\obj\x86\Debug\p12.exe
+C:\Users\MLVS\Desktop\程式試題\技藝競賽題目\101模擬\p12\p12\obj\x86\Debug\p12.xml
+C:\Users\MLVS\Desktop\程式試題\技藝競賽題目\101模擬\p12\p12\obj\x86\Debug\p12.pdb

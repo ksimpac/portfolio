@@ -1,0 +1,12 @@
+D:\Projects\實用\排列組合(遞迴)\排列組合(遞迴)\bin\Debug\排列組合(遞迴).exe
+D:\Projects\實用\排列組合(遞迴)\排列組合(遞迴)\bin\Debug\排列組合(遞迴).pdb
+D:\Projects\實用\排列組合(遞迴)\排列組合(遞迴)\bin\Debug\排列組合(遞迴).xml
+D:\Projects\實用\排列組合(遞迴)\排列組合(遞迴)\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Projects\實用\排列組合(遞迴)\排列組合(遞迴)\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Projects\實用\排列組合(遞迴)\排列組合(遞迴)\obj\x86\Debug\排列組合(遞迴).vbproj.GenerateResource.Cache
+D:\Projects\實用\排列組合(遞迴)\排列組合(遞迴)\obj\x86\Debug\排列組合(遞迴).exe
+D:\Projects\實用\排列組合(遞迴)\排列組合(遞迴)\obj\x86\Debug\排列組合(遞迴).xml
+D:\Projects\實用\排列組合(遞迴)\排列組合(遞迴)\obj\x86\Debug\排列組合(遞迴).pdb
+E:\Projects\實用\排列組合(遞迴)\排列組合(遞迴)\obj\x86\Debug\排列組合(遞迴).exe
+E:\Projects\實用\排列組合(遞迴)\排列組合(遞迴)\obj\x86\Debug\排列組合(遞迴).xml
+E:\Projects\實用\排列組合(遞迴)\排列組合(遞迴)\obj\x86\Debug\排列組合(遞迴).pdb

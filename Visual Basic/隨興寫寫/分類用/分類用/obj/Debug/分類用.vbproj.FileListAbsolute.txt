@@ -1,0 +1,12 @@
+D:\Projects\隨興寫寫\VB\分類用\分類用\bin\Debug\分類用.exe.config
+D:\Projects\隨興寫寫\VB\分類用\分類用\bin\Debug\分類用.exe
+D:\Projects\隨興寫寫\VB\分類用\分類用\bin\Debug\分類用.pdb
+D:\Projects\隨興寫寫\VB\分類用\分類用\bin\Debug\分類用.xml
+D:\Projects\隨興寫寫\VB\分類用\分類用\obj\Debug\分類用.vbprojAssemblyReference.cache
+D:\Projects\隨興寫寫\VB\分類用\分類用\obj\Debug\分類用.Form1.resources
+D:\Projects\隨興寫寫\VB\分類用\分類用\obj\Debug\分類用.Resources.resources
+D:\Projects\隨興寫寫\VB\分類用\分類用\obj\Debug\分類用.vbproj.GenerateResource.cache
+D:\Projects\隨興寫寫\VB\分類用\分類用\obj\Debug\分類用.vbproj.CoreCompileInputs.cache
+D:\Projects\隨興寫寫\VB\分類用\分類用\obj\Debug\分類用.exe
+D:\Projects\隨興寫寫\VB\分類用\分類用\obj\Debug\分類用.xml
+D:\Projects\隨興寫寫\VB\分類用\分類用\obj\Debug\分類用.pdb

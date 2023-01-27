@@ -1,0 +1,7 @@
+ABCDEF
+A
+NULL
+B
+
+ABCDEFDC
+FE

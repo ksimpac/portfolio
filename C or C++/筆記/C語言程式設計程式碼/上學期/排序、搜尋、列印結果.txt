@@ -1,0 +1,90 @@
+﻿#include <stdio.h>
+#include <stdlib.h>
+
+void sort(int score[][2]);
+int search(int score[][2], int search_number);
+void printarray(int score[][2], int search_number);
+
+int main(void)
+{
+	int score[10][2] = { { 2, 10 }, { 1, 5 }, { 9, 18 }, { 5, 80 }, { 7, 60 }, { 6, 40 }, { 3, 71 }, { 4, 20 }, { 10, 30 }, { 8, 100 } };
+
+	int search_number = 0;
+	printf("請輸入要查詢的學號:");
+	scanf_s("%d", &search_number); //輸入要查的學號(座號)
+
+	sort(score); //將score陣列排序
+
+	int index = search(score, search_number); //記錄二分搜尋法回傳的索引值
+
+	printarray(score, search_number); //列印該學號(座號)的分數
+
+	system("PAUSE");
+	return 0;
+}
+
+void sort(int score[][2]) //氣泡排序法
+{
+	for (int i = 1; i <= 10; i++) //比較次數最多就是陣列的個數
+	{
+		for (int j = 0; j <= 8; j++) //為什麼0~8? 因為要兩兩比對，陣列索引最大值只到9，9後面是沒有東西可以比對的!
+		{
+			if (score[j][0] > score[j + 1][0]) //如果這個陣列裡的學號(座號)比下一個陣列裡的學號(座號)大
+			{
+				//學號(座號)對調
+				int temp = score[j][0]; //把學號(座號)大的儲存起來
+				score[j][0] = score[j + 1][0]; //學號(座號)最小的往左移
+				score[j + 1][0] = temp; //學號(座號)最大遞補學號(座號)最小的位置
+				//分數對調
+				temp = score[j][1]; //把學號(座號)大的分數儲存起來
+				score[j][1] = score[j + 1][1]; //學號(座號)最小的分數往左移
+				score[j + 1][1] = temp; //學號(座號)最大的分數遞補學號(座號)最小的分數
+			}
+		}
+	}
+}
+
+int search(int score[][2], int search_number) //二分搜尋法
+{
+	int start = 0, end = 9, middle = 0;
+
+	/*
+	start 起始位置
+	end 結尾位置
+	middle 中間位置
+	*/
+
+	//search_number < 11 && search_number > 0 單純做防呆而已，以防輸入0以下(包刮0)以及大於10的學號(座號)
+	
+	while (start <= end && search_number < 11 && search_number > 0)
+	{
+		middle = (start + end) / 2; //算中間位置
+
+		if (search_number > score[middle][0]) //如果要找的值比中間位置的值還要大
+		{
+			start = middle; //開始位置設在中間位置(或中間位置+1，因為該值(中間位置)已經比較過了)
+		}
+		else if (search_number < score[middle][0]) //如果要找的值比中間位置的值還要小
+		{
+			end = middle; //結尾位置設在中間位置(或中間位置-1，因為該值(中間位置)已經比較過了)
+		}
+		else
+		{
+			return middle; //回傳要找的值在陣列裡是哪個索引值
+		}
+	}
+
+	return -1; //找不到的話 回傳-1
+}
+
+void printarray(int score[][2], int index) //印出結果
+{
+	if (index = -1) //如果二分搜尋法沒有找到該學號(座號)
+	{
+		printf("找不到此座號\n");
+	}
+	else
+	{
+		printf("%d號分數:%d\n", score[index][0], score[index][1]); //印出分數
+	}
+}

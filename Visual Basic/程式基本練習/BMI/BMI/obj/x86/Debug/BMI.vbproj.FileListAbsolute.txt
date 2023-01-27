@@ -1,0 +1,18 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\BMI\bin\Debug\BMI.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\BMI\bin\Debug\BMI.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\BMI\bin\Debug\BMI.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\BMI\obj\x86\Debug\BMI.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\BMI\obj\x86\Debug\BMI.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\BMI\obj\x86\Debug\BMI.vbproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\BMI\obj\x86\Debug\BMI.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\BMI\obj\x86\Debug\BMI.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\BMI\obj\x86\Debug\BMI.pdb
+D:\Projects\BMI\BMI\obj\x86\Debug\BMI.exe
+D:\Projects\BMI\BMI\obj\x86\Debug\BMI.xml
+D:\Projects\BMI\BMI\obj\x86\Debug\BMI.pdb
+D:\Projects\BMI\BMI\bin\Debug\BMI.exe
+D:\Projects\BMI\BMI\bin\Debug\BMI.pdb
+D:\Projects\BMI\BMI\bin\Debug\BMI.xml
+D:\Projects\BMI\BMI\obj\x86\Debug\BMI.Form1.resources
+D:\Projects\BMI\BMI\obj\x86\Debug\BMI.Resources.resources
+D:\Projects\BMI\BMI\obj\x86\Debug\BMI.vbproj.GenerateResource.Cache

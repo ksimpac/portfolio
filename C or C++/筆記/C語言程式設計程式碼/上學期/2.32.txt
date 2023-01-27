@@ -1,0 +1,53 @@
+﻿#include <stdio.h> //標準輸入輸出函式庫
+#include <stdlib.h> //數值與字串轉換.記憶體配置.亂數與其他有用函式庫 
+#include <math.h> //數學函式庫
+
+/*
+函式庫定義:裡面已經有寫好的函數寫在該檔案。
+函數必須要引用函式庫才能使用
+*/
+
+float BMI(float weight, float height); //原型宣告
+int main(void) //主程式
+{
+	float weight = 0.0, height = 0.0,result = 0.0;
+	/* weight 儲存體重
+	   height 儲存身高
+	   result 儲存BMI值 
+	*/
+	printf("請輸入您的體重:");
+	scanf_s("%f", &weight); //取得使用者輸入的文字(數字)
+	printf("請輸入您的身高:");
+	scanf_s("%f", &height); //取得使用者輸入的文字(數字)
+	height = height / 100; //換成公尺
+	result = BMI(weight, height); //計算BMI (丟到副程式)
+	printf("%f\n",result); //印出BMI數字 (最多顯示到小數點後6位)
+
+	// &&(And)為邏輯運算子
+
+	if (result < 18.5) //Less than 18.5
+	{
+		printf("UnderWeight");
+	}
+	else if (result >= 18.5 && result <= 24.9) //Between 18.5 And 24.9
+	{
+		printf("Normal"); 
+	}
+	else if (result >= 25 && result <= 29.9) //Between 25 And 29.9
+	{
+		printf("Overweight");
+	}
+	else //30 or greater
+	{
+		printf("Obese");
+	}
+
+	printf("\n"); //單純換行，沒什麼
+
+	system("PAUSE"); //輸出請按任意鍵繼續
+}
+float BMI(float weight, float height) //計算BMI的副程式
+{
+	float num = weight / pow(height, 2); //BMI = 體重 / 身高的平方 (公尺) 
+	return num; //回傳num的值
+}

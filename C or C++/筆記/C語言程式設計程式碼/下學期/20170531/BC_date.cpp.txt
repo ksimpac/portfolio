@@ -1,0 +1,98 @@
+#include "BC_Date.h"
+#include <iostream>
+#include <iomanip>
+using namespace std;
+
+BC_Date::BC_Date(int y, int m, int d) : year(1999), mouth(01), day(01)
+{
+	setDate(y, m, d);
+}
+
+void BC_Date::setDate(int y, int m, int d)
+{
+	check = true;
+
+	switch (m)
+	{
+	case 1:
+	case 3:
+	case 5:
+	case 7:
+	case 8:
+	case 10:
+	case 12:
+
+		if (d > 31 || d < 1)
+		{
+			dayerror();
+		}
+		else
+		{
+			mouth = m;
+			day = d;
+		}
+
+		break;
+	case 4:
+	case 6:
+	case 9:
+	case 11:
+
+		if (d > 30 || d < 1)
+		{
+			dayerror();
+		}
+		else
+		{
+			mouth = m;
+			day = d;
+		}
+
+		break;
+	case 2:
+
+		int max;
+
+		if (y % 4 == 0)
+		{
+			max = 29;
+		}
+		else
+		{
+			max = 28;
+		}
+
+		if (d > max || d < 1)
+		{
+			dayerror();
+		}
+		else
+		{
+			mouth = m;
+			day = d;
+		}
+
+
+
+		break;
+
+	default:
+		cout << "月份錯誤" << endl;
+		check = false;
+	}
+
+}
+
+void BC_Date::dayerror()
+{
+	cout << "日期錯誤" << endl;
+	check = false;
+}
+
+BC_Date::~BC_Date()
+{
+	if (check == true)
+	{
+		cout << setfill('0') << "民國 " << setw(4) << year << "年 " << setw(2) << mouth << "月 " << setw(2) << day << "日" << endl;
+	}
+}

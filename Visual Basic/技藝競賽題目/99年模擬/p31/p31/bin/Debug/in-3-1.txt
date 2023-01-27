@@ -1,0 +1,3 @@
+Tom Lin's employee number is A123BSC45.
+The price is 45 US dollars.
+The machine code is 65K2.

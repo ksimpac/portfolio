@@ -1,0 +1,12 @@
+C:\Users\ksimpac\AppData\Local\Temporary Projects\Problem1\bin\Debug\Problem1.exe
+C:\Users\ksimpac\AppData\Local\Temporary Projects\Problem1\bin\Debug\Problem1.pdb
+C:\Users\ksimpac\AppData\Local\Temporary Projects\Problem1\bin\Debug\Problem1.xml
+C:\Users\ksimpac\AppData\Local\Temporary Projects\Problem1\obj\x86\Debug\Problem1.Form1.resources
+C:\Users\ksimpac\AppData\Local\Temporary Projects\Problem1\obj\x86\Debug\Problem1.Resources.resources
+C:\Users\ksimpac\AppData\Local\Temporary Projects\Problem1\obj\x86\Debug\Problem1.vbproj.GenerateResource.Cache
+C:\Users\ksimpac\AppData\Local\Temporary Projects\Problem1\obj\x86\Debug\Problem1.exe
+C:\Users\ksimpac\AppData\Local\Temporary Projects\Problem1\obj\x86\Debug\Problem1.xml
+C:\Users\ksimpac\AppData\Local\Temporary Projects\Problem1\obj\x86\Debug\Problem1.pdb
+E:\Projects\來恩盃程式設計競賽 2014年\Problem1\Problem1\obj\x86\Debug\Problem1.exe
+E:\Projects\來恩盃程式設計競賽 2014年\Problem1\Problem1\obj\x86\Debug\Problem1.xml
+E:\Projects\來恩盃程式設計競賽 2014年\Problem1\Problem1\obj\x86\Debug\Problem1.pdb

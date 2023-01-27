@@ -1,0 +1,12 @@
+E:\Projects\基隆商工題目\第二十一屆\12汪45汪汪\bin\Debug\12汪45汪汪.exe
+E:\Projects\基隆商工題目\第二十一屆\12汪45汪汪\bin\Debug\12汪45汪汪.pdb
+E:\Projects\基隆商工題目\第二十一屆\12汪45汪汪\bin\Debug\12汪45汪汪.xml
+E:\Projects\基隆商工題目\第二十一屆\12汪45汪汪\obj\x86\Debug\_12汪45汪汪.Form1.resources
+E:\Projects\基隆商工題目\第二十一屆\12汪45汪汪\obj\x86\Debug\_12汪45汪汪.Resources.resources
+E:\Projects\基隆商工題目\第二十一屆\12汪45汪汪\obj\x86\Debug\12汪45汪汪.vbproj.GenerateResource.Cache
+E:\Projects\基隆商工題目\第二十一屆\12汪45汪汪\obj\x86\Debug\12汪45汪汪.exe
+E:\Projects\基隆商工題目\第二十一屆\12汪45汪汪\obj\x86\Debug\12汪45汪汪.xml
+E:\Projects\基隆商工題目\第二十一屆\12汪45汪汪\obj\x86\Debug\12汪45汪汪.pdb
+D:\Projects\基隆商工題目\第二十一屆\12汪45汪汪\obj\x86\Debug\12汪45汪汪.exe
+D:\Projects\基隆商工題目\第二十一屆\12汪45汪汪\obj\x86\Debug\12汪45汪汪.xml
+D:\Projects\基隆商工題目\第二十一屆\12汪45汪汪\obj\x86\Debug\12汪45汪汪.pdb

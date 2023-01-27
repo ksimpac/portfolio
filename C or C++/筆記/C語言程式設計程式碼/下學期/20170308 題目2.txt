@@ -1,0 +1,63 @@
+﻿#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+int main(void)
+{
+	char username[20];
+	char password[20];
+
+	printf("設定帳號密碼\n");
+	printf("帳號:");
+	scanf_s("%s", username, 20);
+	printf("密碼:");
+	scanf_s("%s", password, 20);
+
+	int times = 0; //錯誤次數
+	char check_username[20], check_password[20]; //放使用者輸入的帳號密碼
+
+
+
+	while(times < 3) //如果錯誤次數不到三次就跑while迴圈，否則跳出
+	{
+		printf("請輸入帳號:");
+		scanf_s("%s", check_username, 20);
+		printf("請輸入密碼:");
+		scanf_s("%s", check_password, 20);
+
+		if (strncmp(username, check_username,20) != 0 || strncmp(password, check_password, 20) != 0) //帳號或密碼其中一個錯誤
+		{
+			printf("帳號或密碼錯誤，請重新輸入！\n");
+			times++;
+			continue;
+		}
+		else
+		{
+			printf("修改密碼!\n");
+			printf("新密碼:");
+			scanf_s("%s", password, 20);
+			
+
+			while (strncmp(password, check_password, 20) != 0)
+			{
+				printf("確認新密碼:");
+				scanf_s("%s", check_password, 20);
+
+				if ((strncmp(password, check_password, 20) != 0))
+				{
+					printf("確認新密碼錯誤，請重新輸入!\n");
+				}
+				
+			}
+			break;
+		}
+	}
+
+	if (times >= 3) //如果錯誤次數到達三次
+	{
+		printf("輸入錯誤到達三次，程式即將關閉!\n");
+		system("PAUSE");
+	}
+
+	return 0;
+}

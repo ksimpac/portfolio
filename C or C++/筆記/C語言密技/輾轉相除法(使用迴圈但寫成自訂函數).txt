@@ -1,0 +1,42 @@
+﻿#include <stdio.h>
+#include <stdlib.h>
+
+int Greatest_Common_Divisor(int a, int b); //最大公因數全名當作自訂函數名稱
+
+int main(void)
+{
+	int a = 12, b = 24,c = 32,GCD = 0;
+
+	
+	GCD = Greatest_Common_Divisor(a, b);
+	GCD = Greatest_Common_Divisor(GCD, c);
+
+	printf("12,24,32三數的最大公因數為%d\n",GCD);
+	system("PAUSE");
+	return 0;
+}
+int Greatest_Common_Divisor(int a, int b) // 找兩數最大公因數的自訂函數(使用迴圈)
+{
+	while (a != 0 && b != 0)
+	{
+		if (a >= b)
+		{
+			a = a % b;
+		}
+		else if (b > a)
+		{
+			b = b % a;
+		}
+
+	}
+
+	//取非0值
+	if (a >= b)
+	{
+		return a;
+	}
+	else
+	{
+		return b;
+	}
+}

@@ -1,0 +1,7 @@
+<?php
+						$title = $post[0]['title'];
+						$start_date = substr($post[0]['date_start'],0,16);
+						$end_date = substr($post[0]['date_end'],0,16);
+						$dates = "'$start_date'/'$end_date'";
+						$location = $post[0]['location'];
+						echo 'http://www.google.com/calendar/event?action=TEMPLATE'."&text=".$title."&dates".$dates."&location".$location.'&trp=false';?>

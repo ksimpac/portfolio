@@ -1,0 +1,18 @@
+#ifndef ROC_Date_H
+#define ROC_Date_H
+
+class ROC_Date
+{
+public:
+	ROC_Date(int, int, int);
+	void setDate(int, int, int);
+	void dayerror();
+	~ROC_Date();
+private:
+	int year;
+	int mouth;
+	int day;
+	bool check;
+};
+#endif
+

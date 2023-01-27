@@ -1,0 +1,4 @@
+true==false==a==true!=false
+a!=false==true!=false==true
+false==true==true!=false!=true!=false==a==true
+true==false==true!=false==a

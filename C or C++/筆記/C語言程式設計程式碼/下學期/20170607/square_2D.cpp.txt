@@ -1,0 +1,10 @@
+#include "square_2D.h"
+#include <iostream>
+
+using namespace std;
+
+void square_2D::comput_area()
+{
+	width = length;
+	cout << "正方形面積為:" << length*width << endl;
+}

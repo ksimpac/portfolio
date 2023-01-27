@@ -1,0 +1,9 @@
+E:\Projects\基隆商工題目\第二十一屆\基測滿分分數\bin\Debug\基測滿分分數.exe
+E:\Projects\基隆商工題目\第二十一屆\基測滿分分數\bin\Debug\基測滿分分數.pdb
+E:\Projects\基隆商工題目\第二十一屆\基測滿分分數\bin\Debug\基測滿分分數.xml
+E:\Projects\基隆商工題目\第二十一屆\基測滿分分數\obj\x86\Debug\基測滿分分數.Form1.resources
+E:\Projects\基隆商工題目\第二十一屆\基測滿分分數\obj\x86\Debug\基測滿分分數.Resources.resources
+E:\Projects\基隆商工題目\第二十一屆\基測滿分分數\obj\x86\Debug\基測滿分分數.vbproj.GenerateResource.Cache
+E:\Projects\基隆商工題目\第二十一屆\基測滿分分數\obj\x86\Debug\基測滿分分數.exe
+E:\Projects\基隆商工題目\第二十一屆\基測滿分分數\obj\x86\Debug\基測滿分分數.xml
+E:\Projects\基隆商工題目\第二十一屆\基測滿分分數\obj\x86\Debug\基測滿分分數.pdb
